@@ -1,0 +1,9 @@
+<map id="modules/perception/obstacle/camera/interface/base_camera_detector.h" name="modules/perception/obstacle/camera/interface/base_camera_detector.h">
+<area shape="rect" id="node7" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="25,221,201,248"/>
+<area shape="rect" id="node10" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="535,117,675,158"/>
+<area shape="rect" id="node16" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="1315,109,1491,165"/>
+<area shape="rect" id="node19" href="$visual__object_8h.html" title="modules/perception\l/obstacle/camera/common\l/visual_object.h" alt="" coords="1064,109,1240,165"/>
+<area shape="rect" id="node13" href="$log_8h.html" title="modules/common/log.h" alt="" coords="225,221,383,248"/>
+<area shape="rect" id="node20" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="1064,214,1217,255"/>
+<area shape="rect" id="node22" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="968,305,1115,346"/>
+</map>

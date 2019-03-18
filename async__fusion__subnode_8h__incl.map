@@ -1,0 +1,29 @@
+<map id="modules/perception/obstacle/onboard/async_fusion_subnode.h" name="modules/perception/obstacle/onboard/async_fusion_subnode.h">
+<area shape="rect" id="node7" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="4215,221,4393,262"/>
+<area shape="rect" id="node15" href="$log_8h.html" title="modules/common/log.h" alt="" coords="4507,565,4664,592"/>
+<area shape="rect" id="node21" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="3373,453,3527,494"/>
+<area shape="rect" id="node23" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="91,453,244,494"/>
+<area shape="rect" id="node26" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="4950,333,5143,374"/>
+<area shape="rect" id="node29" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="879,333,1036,374"/>
+<area shape="rect" id="node34" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="840,558,993,599"/>
+<area shape="rect" id="node37" href="$async__fusion_8h.html" title="modules/perception\l/obstacle/fusion/async\l_fusion/async_fusion.h" alt="" coords="2439,109,2595,165"/>
+<area shape="rect" id="node39" href="$base__fusion_8h.html" title="modules/perception\l/obstacle/fusion/interface\l/base_fusion.h" alt="" coords="1591,213,1759,269"/>
+<area shape="rect" id="node44" href="$fusion__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_shared_data.h" alt="" coords="1109,213,1272,269"/>
+<area shape="rect" id="node46" href="$lane__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/lane\l_shared_data.h" alt="" coords="1382,325,1535,381"/>
+<area shape="rect" id="node47" href="$object__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/object\l_shared_data.h" alt="" coords="818,213,981,269"/>
+<area shape="rect" id="node48" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="3391,333,3525,374"/>
+<area shape="rect" id="node50" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="2083,333,2261,374"/>
+<area shape="rect" id="node10" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="4267,453,4445,494"/>
+<area shape="rect" id="node12" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="4443,333,4621,374"/>
+<area shape="rect" id="node17" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2981,565,3157,592"/>
+<area shape="rect" id="node19" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="3822,333,4012,374"/>
+<area shape="rect" id="node28" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="5020,453,5191,494"/>
+<area shape="rect" id="node32" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="844,649,991,690"/>
+<area shape="rect" id="node33" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="523,445,669,501"/>
+<area shape="rect" id="node35" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1385,445,1585,501"/>
+<area shape="rect" id="node41" href="$pbf__base__track__object__matcher_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_base_track_object\l_matcher.h" alt="" coords="2466,438,2664,509"/>
+<area shape="rect" id="node42" href="$pbf__hm__track__object__matcher_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_hm_track_object\l_matcher.h" alt="" coords="2336,318,2525,389"/>
+<area shape="rect" id="node43" href="$pbf__track__manager_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_track_manager.h" alt="" coords="2841,445,3031,501"/>
+<area shape="rect" id="node40" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="3158,453,3297,494"/>
+<area shape="rect" id="node45" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="1814,445,1985,501"/>
+</map>
