@@ -1,0 +1,51 @@
+<map id="modules/common/macro.h" name="modules/common/macro.h">
+<area shape="rect" id="node2" href="$lidar__ex__checker_8h.html" title="modules/calibration\l/lidar_ex_checker/lidar\l_ex_checker.h" alt="" coords="5,88,157,144"/>
+<area shape="rect" id="node3" href="$republish__msg_8h.html" title="modules/calibration\l/republish_msg/republish_msg.h" alt="" coords="182,95,391,137"/>
+<area shape="rect" id="node4" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="416,95,587,137"/>
+<area shape="rect" id="node5" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="763,207,935,249"/>
+<area shape="rect" id="node6" href="$canbus_8h.html" title="modules/canbus/canbus.h" alt="" coords="735,319,909,345"/>
+<area shape="rect" id="node7" href="$conti__radar__canbus_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus.h" alt="" coords="1138,304,1296,360"/>
+<area shape="rect" id="node8" href="$racobit__radar__canbus_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus.h" alt="" coords="1321,304,1468,360"/>
+<area shape="rect" id="node9" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="935,304,1113,360"/>
+<area shape="rect" id="node10" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1087,95,1240,137"/>
+<area shape="rect" id="node11" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="1559,311,1717,353"/>
+<area shape="rect" id="node12" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="960,207,1139,249"/>
+<area shape="rect" id="node13" href="$gem__controller_8h.html" title="modules/canbus/vehicle\l/gem/gem_controller.h" alt="" coords="1923,95,2085,137"/>
+<area shape="rect" id="node14" href="$lincoln__controller_8h.html" title="The class of LincolnController. " alt="" coords="2110,95,2284,137"/>
+<area shape="rect" id="node15" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="1600,95,1747,137"/>
+<area shape="rect" id="node16" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="1315,200,1473,256"/>
+<area shape="rect" id="node17" href="$can__checker__factory_8h.html" title="modules/monitor/hardware\l/can/can_checker_factory.h" alt="" coords="1803,207,1985,249"/>
+<area shape="rect" id="node18" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1549,207,1728,249"/>
+<area shape="rect" id="node19" href="$gnss_8h.html" title="modules/drivers/gnss\l/gnss.h" alt="" coords="1872,311,2019,353"/>
+<area shape="rect" id="node20" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2309,95,2463,137"/>
+<area shape="rect" id="node21" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="2488,95,2641,137"/>
+<area shape="rect" id="node22" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="2667,95,2869,137"/>
+<area shape="rect" id="node23" href="$control__test__base_8h.html" title="modules/control/integration\l_tests/control_test_base.h" alt="" coords="2893,95,3072,137"/>
+<area shape="rect" id="node24" href="$info__collector_8h.html" title="modules/data/util/info\l_collector.h" alt="" coords="3096,95,3243,137"/>
+<area shape="rect" id="node25" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="3267,103,3464,129"/>
+<area shape="rect" id="node26" href="$hmi__worker_8h.html" title="modules/dreamview/backend\l/hmi/hmi_worker.h" alt="" coords="3489,95,3679,137"/>
+<area shape="rect" id="node27" href="$vehicle__manager_8h.html" title="modules/dreamview/backend\l/hmi/vehicle_manager.h" alt="" coords="3703,95,3893,137"/>
+<area shape="rect" id="node28" href="$guardian_8h.html" title="modules/guardian/guardian.h" alt="" coords="3918,103,4105,129"/>
+<area shape="rect" id="node29" href="$localization_2msf_2common_2util_2threadpool_8h.html" title="modules/localization\l/msf/common/util/threadpool.h" alt="" coords="4130,95,4328,137"/>
+<area shape="rect" id="node30" href="$monitor__manager_8h.html" title="modules/monitor/common\l/monitor_manager.h" alt="" coords="4353,95,4524,137"/>
+<area shape="rect" id="node31" href="$esdcan__checker_8h.html" title="modules/monitor/hardware\l/can/esdcan/esdcan_checker.h" alt="" coords="4549,95,4752,137"/>
+<area shape="rect" id="node32" href="$socketcan__checker_8h.html" title="modules/monitor/hardware\l/can/socketcan/socketcan\l_checker.h" alt="" coords="4777,88,4951,144"/>
+<area shape="rect" id="node33" href="$base__type__fuser_8h.html" title="modules/perception\l/common/sequence_type\l_fuser/base_type_fuser.h" alt="" coords="4338,200,4507,256"/>
+<area shape="rect" id="node34" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="5281,95,5420,137"/>
+<area shape="rect" id="node35" href="$base__camera__converter_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_converter.h" alt="" coords="4532,200,4708,256"/>
+<area shape="rect" id="node36" href="$base__camera__detector_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_detector.h" alt="" coords="4732,200,4908,256"/>
+<area shape="rect" id="node37" href="$base__camera__tracker_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_tracker.h" alt="" coords="6196,200,6372,256"/>
+<area shape="rect" id="node38" href="$cascaded__camera__tracker_8h.html" title="modules/perception\l/obstacle/camera/tracker\l/cascaded_camera_tracker.h" alt="" coords="5263,304,5453,360"/>
+<area shape="rect" id="node39" href="$base__camera__transformer_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_transformer.h" alt="" coords="4933,200,5120,256"/>
+<area shape="rect" id="node40" href="$base__camera__filter_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_filter.h" alt="" coords="5145,200,5321,256"/>
+<area shape="rect" id="node41" href="$base__lane__post__processor_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_lane_post_processor.h" alt="" coords="5396,200,5588,256"/>
+<area shape="rect" id="node42" href="$base__visualizer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/base_visualizer.h" alt="" coords="5612,200,5793,256"/>
+<area shape="rect" id="node43" href="$base__radar__detector_8h.html" title="modules/perception\l/obstacle/radar/interface\l/base_radar_detector.h" alt="" coords="5817,200,5980,256"/>
+<area shape="rect" id="node44" href="$base__fusion_8h.html" title="modules/perception\l/obstacle/fusion/interface\l/base_fusion.h" alt="" coords="6004,200,6172,256"/>
+<area shape="rect" id="node45" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="5750,95,5884,137"/>
+<area shape="rect" id="node46" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="6396,200,6591,256"/>
+<area shape="rect" id="node47" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="5909,95,6048,137"/>
+<area shape="rect" id="node48" href="$thread_8h.html" title="modules/perception\l/lib/base/thread.h" alt="" coords="6073,95,6207,137"/>
+<area shape="rect" id="node49" href="$feature__extractor_8h.html" title="modules/perception\l/obstacle/camera/detector\l/common/feature_extractor.h" alt="" coords="6232,88,6421,144"/>
+<area shape="rect" id="node50" href="$pbf__base__track__object__matcher_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_base_track_object\l_matcher.h" alt="" coords="6446,81,6644,151"/>
+</map>

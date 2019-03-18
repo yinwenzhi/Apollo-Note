@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseCameraDetector" name="apollo::perception::BaseCameraDetector">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1DummyCameraDetector.html" title="{apollo::perception\l::DummyCameraDetector\n||+ DummyCameraDetector()\l+ ~DummyCameraDetector()\l+ Init()\l+ Detect()\l+ Multitask()\l+ Extract()\l+ Name()\l}" alt="" coords="5,322,197,502"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1YoloCameraDetector.html" title="{apollo::perception\l::YoloCameraDetector\n||+ YoloCameraDetector()\l+ ~YoloCameraDetector()\l+ Init()\l+ Detect()\l+ Multitask()\l+ Lanetask()\l+ Extract()\l+ Name()\l# init_cnn()\l# init_cnn_lane()\l# load_intrinsic()\l# load_intrinsic_lane()\l# load_nms_params()\l# init_anchor()\l# get_objects_cpu()\l# get_objects_gpu()\l# get_object_helper()\l}" alt="" coords="222,249,393,575"/>
+</map>

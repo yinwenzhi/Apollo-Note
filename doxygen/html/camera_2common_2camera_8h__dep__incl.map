@@ -1,0 +1,21 @@
+<map id="modules/perception/obstacle/camera/common/camera.h" name="modules/perception/obstacle/camera/common/camera.h">
+<area shape="rect" id="node2" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="420,109,615,165"/>
+<area shape="rect" id="node13" href="$geometry__camera__converter_8h.html" title="modules/perception\l/obstacle/camera/converter\l/geometry_camera_converter.h" alt="" coords="1055,213,1257,269"/>
+<area shape="rect" id="node14" href="$base__camera__detector_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_detector.h" alt="" coords="855,109,1031,165"/>
+<area shape="rect" id="node17" href="$flat__camera__transformer_8h.html" title="modules/perception\l/obstacle/camera/transformer\l/flat_camera_transformer.h" alt="" coords="639,109,831,165"/>
+<area shape="rect" id="node18" href="$glfw__fusion__viewer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/glfw_fusion_viewer.h" alt="" coords="1195,109,1376,165"/>
+<area shape="rect" id="node3" href="$lane__post__process_2common_2projector_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/projector.h" alt="" coords="99,213,325,269"/>
+<area shape="rect" id="node6" href="$camera__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/camera\l_process_subnode.h" alt="" coords="815,452,987,508"/>
+<area shape="rect" id="node7" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="445,213,589,269"/>
+<area shape="rect" id="node4" href="$lane__frame_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/cc_lane\l_post_processor/lane_frame.h" alt="" coords="8,318,205,389"/>
+<area shape="rect" id="node5" href="$cc__lane__post__processor_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/cc_lane\l_post_processor/cc_lane\l_post_processor.h" alt="" coords="5,437,171,523"/>
+<area shape="rect" id="node8" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="265,325,444,381"/>
+<area shape="rect" id="node12" href="$projection_8h.html" title="modules/perception\l/traffic_light/projection\l/projection.h" alt="" coords="469,325,619,381"/>
+<area shape="rect" id="node9" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="411,452,580,508"/>
+<area shape="rect" id="node10" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="343,571,525,627"/>
+<area shape="rect" id="node11" href="$tl__proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_proc_subnode.h" alt="" coords="195,452,335,508"/>
+<area shape="rect" id="node15" href="$camera_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/obstacle/camera/dummy\l/dummy_algorithms.h" alt="" coords="810,213,979,269"/>
+<area shape="rect" id="node16" href="$yolo__camera__detector_8h.html" title="modules/perception\l/obstacle/camera/detector\l/yolo_camera_detector/yolo\l_camera_detector.h" alt="" coords="746,318,928,389"/>
+<area shape="rect" id="node19" href="$gl__fusion__visualizer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/gl_fusion_visualizer.h" alt="" coords="1281,213,1463,269"/>
+<area shape="rect" id="node20" href="$visualization__subnode_8h.html" title="modules/perception\l/obstacle/onboard/visualization\l_subnode.h" alt="" coords="1271,325,1472,381"/>
+</map>

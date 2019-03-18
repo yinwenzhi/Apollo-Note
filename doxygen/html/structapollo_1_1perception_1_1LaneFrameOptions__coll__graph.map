@@ -1,0 +1,4 @@
+<map id="apollo::perception::LaneFrameOptions" name="apollo::perception::LaneFrameOptions">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1AssociationParam.html" title="{apollo::perception\l::AssociationParam\n|+ method\l+ min_distance\l+ max_distance\l+ distance_weight\l+ max_deviation_angle\l+ deviation_angle_weight\l+ max_relative_orie\l+ relative_orie_weight\l+ max_departure_distance\l+ departure_distance\l_weight\l+ min_orientation_estimation_size\l|}" alt="" coords="5,5,224,259"/>
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1GroupParam.html" title="{apollo::perception\l::GroupParam\n|+ max_group_prediction\l_marker_num\l+ orientation_estimation\l_skip_marker_num\l|+ GroupParam()\l}" alt="" coords="249,64,409,200"/>
+</map>

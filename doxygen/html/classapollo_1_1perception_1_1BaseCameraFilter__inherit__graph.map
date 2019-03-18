@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseCameraFilter" name="apollo::perception::BaseCameraFilter">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1ObjectCameraExtendedKalmanFilter.html" title="{apollo::perception\l::ObjectCameraExtendedKalman\lFilter\n||+ ObjectCameraExtendedKalman\lFilter()\l+ ~ObjectCameraExtendedKalman\lFilter()\l+ Init()\l+ Filter()\l+ Name()\l}" alt="" coords="5,205,229,400"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1ObjectCameraFilter.html" title="{apollo::perception\l::ObjectCameraFilter\n||+ ObjectCameraFilter()\l+ ~ObjectCameraFilter()\l+ Init()\l+ Filter()\l+ Name()\l}" alt="" coords="255,227,417,378"/>
+</map>

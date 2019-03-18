@@ -1,0 +1,7 @@
+<map id="apollo::localization::msf::BaseMapNode" name="apollo::localization::msf::BaseMapNode">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1BaseMapConfig.html" title="The options of the reflectance map. " alt="" coords="5,294,200,591"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1Rect2D.html" title="{apollo::localization\l::msf::Rect2D\&lt; double \&gt;\n||+ Rect2D()\l+ Rect2D()\l+ Rect2D()\l+ operator=()\l+ GetMinX()\l+ GetMinY()\l+ GetMaxX()\l+ GetMaxY()\l+ GetLeftTopCorner()\l+ GetRightBottomCorner()\l}" alt="" coords="15,5,189,229"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1CompressionStrategy.html" title="{apollo::localization\l::msf::CompressionStrategy\n||+ ~CompressionStrategy()\l+ Encode()\l+ Decode()\l}" alt="" coords="224,382,411,503"/>
+<area shape="rect" id="node5" href="$classapollo_1_1localization_1_1msf_1_1BaseMapMatrix.html" title="The data structure of the map cells in a map node. " alt="" coords="435,338,585,547"/>
+<area shape="rect" id="node6" href="$classapollo_1_1localization_1_1msf_1_1MapNodeIndex.html" title="{apollo::localization\l::msf::MapNodeIndex\n|+ resolution_id_\l+ zone_id_\l+ m_\l+ n_\l|+ MapNodeIndex()\l+ operator\&lt;()\l+ operator==()\l+ operator!=()\l+ ToString()\l+ GetMapNodeIndex()\l+ GetMapNodeIndex()\l+ GetMapIndexRangeEast()\l+ GetMapIndexRangeNorth()\l}" alt="" coords="610,316,800,569"/>
+</map>

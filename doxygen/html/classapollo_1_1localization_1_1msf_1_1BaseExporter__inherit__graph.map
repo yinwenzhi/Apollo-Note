@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::BaseExporter" name="apollo::localization::msf::BaseExporter">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LocationExporter.html" title="Export info about localziation in rosbag. " alt="" coords="5,160,176,325"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1PCDExporter.html" title="Export pcd from rosbag. " alt="" coords="200,182,397,303"/>
+</map>

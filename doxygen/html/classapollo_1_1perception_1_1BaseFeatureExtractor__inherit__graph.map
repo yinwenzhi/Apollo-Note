@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseFeatureExtractor" name="apollo::perception::BaseFeatureExtractor">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1ReorgFeatureExtractor.html" title="{apollo::perception\l::ReorgFeatureExtractor\n|# bottom_vec_\l# top_vec_\l# reorg_feat_blob_\l# reorg_layer_\l# skip_reorg_\l# ref_height_\l# ref_width_\l|+ init()\l+ extract()\l}" alt="" coords="5,189,168,384"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1ROIPoolingFeatureExtractor.html" title="{apollo::perception\l::ROIPoolingFeatureExtractor\n|# bottom_vec_\l# top_vec_\l# rois_blob_\l# roi_feat_blob_\l# roi_pooling_layer_\l# input_height_\l# input_width_\l|+ init()\l+ extract()\l}" alt="" coords="192,189,387,384"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="modules/perception/traffic_light/recognizer/unity_recognize.h" name="modules/perception/traffic_light/recognizer/unity_recognize.h">
+<area shape="rect" id="node6" href="$base__recognizer_8h.html" title="modules/perception\l/traffic_light/interface\l/base_recognizer.h" alt="" coords="828,109,972,165"/>
+<area shape="rect" id="node24" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="1185,109,1329,165"/>
+<area shape="rect" id="node8" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="585,221,724,262"/>
+<area shape="rect" id="node17" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="982,317,1116,373"/>
+<area shape="rect" id="node20" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1219,213,1353,269"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="112,332,269,359"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="293,332,469,359"/>
+</map>

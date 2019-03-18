@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classvelodyne__driver_1_1Input.html" title="Velodyne input base class. " alt="" coords="6,31,157,57"/>
+<area shape="rect" id="node2" href="$classvelodyne__driver_1_1InputPCAP.html" title="Velodyne input from PCAP dump file. " alt="" coords="208,5,395,32"/>
+<area shape="rect" id="node3" href="$classvelodyne__driver_1_1InputSocket.html" title="Live Velodyne input from socket. " alt="" coords="206,56,397,83"/>
+</map>

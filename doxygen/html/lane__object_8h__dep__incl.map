@@ -1,0 +1,8 @@
+<map id="modules/perception/obstacle/camera/common/lane_object.h" name="modules/perception/obstacle/camera/common/lane_object.h">
+<area shape="rect" id="node2" href="$cipv_8h.html" title="modules/perception\l/obstacle/camera/cipv\l/cipv.h" alt="" coords="222,109,372,165"/>
+<area shape="rect" id="node3" href="$glfw__fusion__viewer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/glfw_fusion_viewer.h" alt="" coords="15,213,196,269"/>
+<area shape="rect" id="node6" href="$cipv__subnode_8h.html" title="modules/perception\l/obstacle/onboard/cipv\l_subnode.h" alt="" coords="221,213,373,269"/>
+<area shape="rect" id="node7" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="398,213,561,269"/>
+<area shape="rect" id="node4" href="$gl__fusion__visualizer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/gl_fusion_visualizer.h" alt="" coords="15,317,196,373"/>
+<area shape="rect" id="node5" href="$visualization__subnode_8h.html" title="modules/perception\l/obstacle/onboard/visualization\l_subnode.h" alt="" coords="5,421,205,477"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="modules/perception/obstacle/onboard/camera_process_subnode.h" name="modules/perception/obstacle/onboard/camera_process_subnode.h">
+<area shape="rect" id="node14" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="818,125,997,166"/>
+<area shape="rect" id="node22" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2393,348,2550,375"/>
+<area shape="rect" id="node27" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="5239,341,5393,382"/>
+<area shape="rect" id="node28" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2214,341,2367,382"/>
+<area shape="rect" id="node29" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="1249,341,1442,382"/>
+<area shape="rect" id="node30" href="$perception_2cuda__util_2util_8h.html" title="modules/perception\l/cuda_util/util.h" alt="" coords="1251,237,1385,278"/>
+<area shape="rect" id="node31" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="1619,341,1758,382"/>
+<area shape="rect" id="node32" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="1563,229,1758,285"/>
+<area shape="rect" id="node33" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="2155,237,2313,278"/>
+<area shape="rect" id="node34" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="1883,341,2037,382"/>
+<area shape="rect" id="node35" href="$geometry__camera__converter_8h.html" title="modules/perception\l/obstacle/camera/converter\l/geometry_camera_converter.h" alt="" coords="3757,229,3959,285"/>
+<area shape="rect" id="node36" href="$base__camera__converter_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_converter.h" alt="" coords="3027,333,3203,389"/>
+<area shape="rect" id="node37" href="$yolo__camera__detector_8h.html" title="modules/perception\l/obstacle/camera/detector\l/yolo_camera_detector/yolo\l_camera_detector.h" alt="" coords="2988,110,3170,181"/>
+<area shape="rect" id="node38" href="$camera_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/obstacle/camera/dummy\l/dummy_algorithms.h" alt="" coords="3247,229,3415,285"/>
+<area shape="rect" id="node39" href="$base__camera__detector_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_detector.h" alt="" coords="2827,333,3003,389"/>
+<area shape="rect" id="node40" href="$base__camera__tracker_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_tracker.h" alt="" coords="3227,333,3403,389"/>
+<area shape="rect" id="node41" href="$base__camera__transformer_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_transformer.h" alt="" coords="3428,333,3615,389"/>
+<area shape="rect" id="node42" href="$object__camera__filter_8h.html" title="modules/perception\l/obstacle/camera/filter\l/object_camera_filter.h" alt="" coords="4785,229,4938,285"/>
+<area shape="rect" id="node43" href="$base__camera__filter_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_filter.h" alt="" coords="3691,333,3867,389"/>
+<area shape="rect" id="node44" href="$cascaded__camera__tracker_8h.html" title="modules/perception\l/obstacle/camera/tracker\l/cascaded_camera_tracker.h" alt="" coords="3984,229,4174,285"/>
+<area shape="rect" id="node45" href="$flat__camera__transformer_8h.html" title="modules/perception\l/obstacle/camera/transformer\l/flat_camera_transformer.h" alt="" coords="4457,229,4649,285"/>
+<area shape="rect" id="node46" href="$camera__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/camera\l_shared_data.h" alt="" coords="3543,117,3714,173"/>
+<area shape="rect" id="node47" href="$object__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/object\l_shared_data.h" alt="" coords="3841,117,4005,173"/>
+<area shape="rect" id="node48" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="4145,341,4279,382"/>
+<area shape="rect" id="node49" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="5207,237,5386,278"/>
+<area shape="rect" id="node50" href="$color__space_8h.html" title="modules/perception\l/traffic_light/util\l/color_space.h" alt="" coords="5723,117,5857,173"/>
+<area shape="rect" id="node17" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="691,341,870,382"/>
+<area shape="rect" id="node19" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="171,237,350,278"/>
+<area shape="rect" id="node24" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="3227,445,3403,472"/>
+<area shape="rect" id="node25" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="679,237,869,278"/>
+</map>

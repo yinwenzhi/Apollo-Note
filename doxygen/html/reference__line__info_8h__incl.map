@@ -1,0 +1,21 @@
+<map id="modules/planning/common/reference_line_info.h" name="modules/planning/common/reference_line_info.h">
+<area shape="rect" id="node14" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1819,194,1976,235"/>
+<area shape="rect" id="node38" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="3518,194,3695,235"/>
+<area shape="rect" id="node42" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="4039,97,4216,138"/>
+<area shape="rect" id="node48" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="3214,291,3391,333"/>
+<area shape="rect" id="node49" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="2629,187,2805,243"/>
+<area shape="rect" id="node20" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1352,480,1549,507"/>
+<area shape="rect" id="node36" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2052,382,2209,423"/>
+<area shape="rect" id="node37" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="1885,291,2043,333"/>
+<area shape="rect" id="node21" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="807,571,983,597"/>
+<area shape="rect" id="node23" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1535,654,1721,695"/>
+<area shape="rect" id="node35" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="1292,563,1479,605"/>
+<area shape="rect" id="node24" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2758,745,2916,786"/>
+<area shape="rect" id="node39" href="$discretized__path_8h.html" title="modules/planning/common\l/path/discretized_path.h" alt="" coords="3518,291,3695,333"/>
+<area shape="rect" id="node40" href="$frenet__frame__path_8h.html" title="modules/planning/common\l/path/frenet_frame_path.h" alt="" coords="3719,291,3896,333"/>
+<area shape="rect" id="node41" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="3008,291,3189,333"/>
+<area shape="rect" id="node45" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2861,473,3037,514"/>
+<area shape="rect" id="node46" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3973,291,4149,333"/>
+<area shape="rect" id="node47" href="$path__obstacle_8h.html" title="modules/planning/common\l/path_obstacle.h" alt="" coords="4182,194,4359,235"/>
+<area shape="rect" id="node50" href="$trajectory_8h.html" title="modules/planning/common\l/trajectory/trajectory.h" alt="" coords="2755,291,2932,333"/>
+</map>

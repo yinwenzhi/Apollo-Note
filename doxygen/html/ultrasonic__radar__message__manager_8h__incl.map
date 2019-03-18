@@ -1,0 +1,18 @@
+<map id="modules/drivers/radar/ultrasonic_radar/ultrasonic_radar_message_manager.h" name="modules/drivers/radar/ultrasonic_radar/ultrasonic_radar_message_manager.h">
+<area shape="rect" id="node3" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="621,200,780,256"/>
+<area shape="rect" id="node23" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1183,305,1355,346"/>
+<area shape="rect" id="node40" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1609,305,1823,346"/>
+<area shape="rect" id="node44" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="2164,110,2343,151"/>
+<area shape="rect" id="node50" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="2864,110,3023,151"/>
+<area shape="rect" id="node5" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="5,493,181,520"/>
+<area shape="rect" id="node8" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="248,305,395,346"/>
+<area shape="rect" id="node14" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="381,395,540,437"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1623,493,1780,520"/>
+<area shape="rect" id="node21" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1335,486,1493,527"/>
+<area shape="rect" id="node29" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="2113,395,2267,437"/>
+<area shape="rect" id="node37" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1178,395,1360,437"/>
+<area shape="rect" id="node34" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="2103,486,2273,527"/>
+<area shape="rect" id="node46" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="2468,305,2647,346"/>
+<area shape="rect" id="node47" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2589,207,2768,249"/>
+<area shape="rect" id="node49" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="1847,305,2037,346"/>
+</map>

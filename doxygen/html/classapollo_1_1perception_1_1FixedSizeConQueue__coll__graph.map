@@ -1,0 +1,5 @@
+<map id="apollo::perception::FixedSizeConQueue&lt; Data &gt;" name="apollo::perception::FixedSizeConQueue&lt; Data &gt;">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1ConcurrentQueue.html" title="{apollo::perception\l::ConcurrentQueue\&lt; Data \&gt;\n|# queue_\l|+ ConcurrentQueue()\l+ ~ConcurrentQueue()\l+ push()\l+ pop()\l+ try_pop()\l+ empty()\l+ size()\l+ clear()\l}" alt="" coords="48,221,232,416"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1Mutex.html" title="{apollo::perception\l::Mutex\n||+ Mutex()\l+ ~Mutex()\l+ Lock()\l+ Unlock()\l+ TryLock()\l}" alt="" coords="5,6,128,157"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1CondVar.html" title="{apollo::perception\l::CondVar\n||+ CondVar()\l+ ~CondVar()\l+ Wait()\l+ Signal()\l+ Signalall()\l}" alt="" coords="153,6,276,157"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="modules/canbus/vehicle/lincoln/lincoln_controller.h" name="modules/canbus/vehicle/lincoln/lincoln_controller.h">
+<area shape="rect" id="node5" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="1420,97,1583,138"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="747,376,923,403"/>
+<area shape="rect" id="node46" href="$brake__60_8h.html" title="the class of Brake60 (for lincoln vehicle) " alt="" coords="2620,97,2801,138"/>
+<area shape="rect" id="node47" href="$gear__66_8h.html" title="the class of Gear66 (for lincoln vehicle) " alt="" coords="1709,97,1883,138"/>
+<area shape="rect" id="node48" href="$steering__64_8h.html" title="the class of Steering64 (for lincoln vehicle) " alt="" coords="1908,97,2103,138"/>
+<area shape="rect" id="node49" href="$throttle__62_8h.html" title="the class of Throttle62 (for lincoln vehicle) " alt="" coords="2177,97,2367,138"/>
+<area shape="rect" id="node50" href="$turnsignal__68_8h.html" title="the class of Turnsignal68 (for lincoln vehicle) " alt="" coords="2391,97,2596,138"/>
+<area shape="rect" id="node11" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="757,278,928,319"/>
+<area shape="rect" id="node18" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1501,187,1672,229"/>
+<area shape="rect" id="node38" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="2129,278,2311,319"/>
+<area shape="rect" id="node42" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1210,187,1424,229"/>
+<area shape="rect" id="node23" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1688,376,1845,403"/>
+<area shape="rect" id="node26" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="528,278,681,319"/>
+<area shape="rect" id="node33" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1541,278,1700,319"/>
+<area shape="rect" id="node31" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="387,369,557,410"/>
+<area shape="rect" id="node37" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1192,369,1351,410"/>
+<area shape="rect" id="node41" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="2104,369,2283,410"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="modules/localization/msf/local_tool/local_visualization/offline_visual/offline_local_visualizer.h" name="modules/localization/msf/local_tool/local_visualization/offline_visual/offline_local_visualizer.h">
+<area shape="rect" id="node5" href="$base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="587,133,761,189"/>
+<area shape="rect" id="node13" href="$visualization__engine_8h.html" title="The engine for localization visualization. " alt="" coords="987,126,1140,197"/>
+<area shape="rect" id="node9" href="$rect2d_8h.html" title="modules/localization\l/msf/common/util/rect2d.h" alt="" coords="5,253,179,294"/>
+<area shape="rect" id="node11" href="$base__map__fwd_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_fwd.h" alt="" coords="203,245,377,301"/>
+</map>

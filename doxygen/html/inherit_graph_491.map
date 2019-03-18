@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1traffic__light_1_1ISelectLight.html" title="base class for selecting light given detection boxes and hdmap boxes " alt="" coords="5,5,176,46"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1traffic__light_1_1GaussianSelect.html" title="use gaussian score to select light " alt="" coords="224,5,419,46"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="modules/drivers/canbus/can_client/can_client.h" name="modules/drivers/canbus/can_client/can_client.h">
+<area shape="rect" id="node2" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="926,103,1097,145"/>
+<area shape="rect" id="node4" href="$canbus_8h.html" title="modules/canbus/canbus.h" alt="" coords="695,319,869,345"/>
+<area shape="rect" id="node11" href="$conti__radar__canbus_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus.h" alt="" coords="933,304,1091,360"/>
+<area shape="rect" id="node13" href="$racobit__radar__canbus_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus.h" alt="" coords="1393,304,1540,360"/>
+<area shape="rect" id="node15" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="1635,304,1813,360"/>
+<area shape="rect" id="node17" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="1377,207,1556,249"/>
+<area shape="rect" id="node18" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="1977,311,2136,353"/>
+<area shape="rect" id="node19" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="1676,96,1835,152"/>
+<area shape="rect" id="node20" href="$esd__can__client_8h.html" title="Defines the EsdCanClient class which inherits CanClient. " alt="" coords="2095,96,2257,152"/>
+<area shape="rect" id="node21" href="$fake__can__client_8h.html" title="Defines the FakeCanClient class which inherites CanClient. " alt="" coords="2281,96,2440,152"/>
+<area shape="rect" id="node22" href="$hermes__can__client_8h.html" title="modules/drivers/canbus\l/can_client/hermes_can\l/hermes_can_client.h" alt="" coords="2465,96,2624,152"/>
+<area shape="rect" id="node23" href="$socket__can__client__raw_8h.html" title="Defines the SocketCanClientRaw class which inherits CanClient. " alt="" coords="2649,96,2820,152"/>
+<area shape="rect" id="node3" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="389,207,552,249"/>
+<area shape="rect" id="node12" href="$conti__radar__message__manager_8h.html" title="The class of ContiRadarMessageManager. " alt="" coords="933,200,1091,256"/>
+<area shape="rect" id="node14" href="$racobit__radar__message__manager_8h.html" title="The class of RacobitRadarMessageManager. " alt="" coords="1116,200,1303,256"/>
+<area shape="rect" id="node16" href="$ultrasonic__radar__message__manager_8h.html" title="The class of UltrasonicRadarMessageManager. " alt="" coords="1631,200,1817,256"/>
+<area shape="rect" id="node5" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="255,311,433,353"/>
+<area shape="rect" id="node6" href="$gem__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/gem/gem_vehicle_factory.h" alt="" coords="52,415,239,457"/>
+<area shape="rect" id="node7" href="$lincoln__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lincoln/lincoln_vehicle\l_factory.h" alt="" coords="449,408,612,464"/>
+<area shape="rect" id="node9" href="$gem__controller_8h.html" title="modules/canbus/vehicle\l/gem/gem_controller.h" alt="" coords="508,311,671,353"/>
+<area shape="rect" id="node10" href="$lincoln__controller_8h.html" title="The class of LincolnController. " alt="" coords="5,311,179,353"/>
+<area shape="rect" id="node8" href="$vehicle__factory_8h.html" title="modules/canbus/vehicle\l/vehicle_factory.h" alt="" coords="263,415,425,457"/>
+</map>

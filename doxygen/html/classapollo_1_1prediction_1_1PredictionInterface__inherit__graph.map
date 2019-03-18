@@ -1,0 +1,4 @@
+<map id="apollo::prediction::PredictionInterface" name="apollo::prediction::PredictionInterface">
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1Prediction.html" title="{apollo::prediction\l::Prediction\n||+ ~Prediction()\l+ Name()\l+ Init()\l+ Start()\l+ Stop()\l+ RunOnce()\l}" alt="" coords="44,373,164,539"/>
+<area shape="rect" id="node2" href="$classapollo_1_1common_1_1ApolloApp.html" title="The base module class to define the interface of an Apollo app. An Apollo app runs infinitely until b..." alt="" coords="5,5,203,171"/>
+</map>

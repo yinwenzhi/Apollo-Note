@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1BaseAffinityTracker.html" title="apollo::perception\l::BaseAffinityTracker" alt="" coords="6,70,151,111"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1CS2DAffinityTracker.html" title="apollo::perception\l::CS2DAffinityTracker" alt="" coords="201,5,351,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1DLFAffinityTracker.html" title="apollo::perception\l::DLFAffinityTracker" alt="" coords="206,70,346,111"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1KCFAffinityTracker.html" title="apollo::perception\l::KCFAffinityTracker" alt="" coords="205,135,347,177"/>
+</map>

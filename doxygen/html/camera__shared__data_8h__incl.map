@@ -1,0 +1,15 @@
+<map id="modules/perception/obstacle/onboard/camera_shared_data.h" name="modules/perception/obstacle/onboard/camera_shared_data.h">
+<area shape="rect" id="node5" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="925,117,1083,158"/>
+<area shape="rect" id="node23" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="1217,213,1364,269"/>
+<area shape="rect" id="node33" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="2181,109,2352,165"/>
+<area shape="rect" id="node11" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="532,333,685,374"/>
+<area shape="rect" id="node16" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="412,438,559,479"/>
+<area shape="rect" id="node24" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="761,333,915,374"/>
+<area shape="rect" id="node25" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1735,213,1936,269"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2484,445,2660,472"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2836,445,2993,472"/>
+<area shape="rect" id="node32" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1858,318,2051,389"/>
+<area shape="rect" id="node38" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="2583,221,2717,262"/>
+<area shape="rect" id="node40" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="2742,221,2900,262"/>
+<area shape="rect" id="node41" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2737,333,2876,374"/>
+</map>

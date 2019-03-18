@@ -1,0 +1,32 @@
+<map id="modules/planning/tasks/qp_spline_st_speed/qp_spline_st_speed_optimizer.h" name="modules/planning/tasks/qp_spline_st_speed/qp_spline_st_speed_optimizer.h">
+<area shape="rect" id="node9" href="$spline__1d__generator_8h.html" title=": piecewise_smoothing_spline (pss) generator class solve pss by qp algorithm, include adding constrai..." alt="" coords="503,485,667,541"/>
+<area shape="rect" id="node22" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/speed_optimizer.h" alt="" coords="2357,110,2515,151"/>
+<area shape="rect" id="node49" href="$speed__limit__decider_8h.html" title="modules/planning/tasks\l/st_graph/speed_limit\l_decider.h" alt="" coords="2138,485,2296,541"/>
+<area shape="rect" id="node50" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/st_graph/st_boundary\l_mapper.h" alt="" coords="1701,381,1859,437"/>
+<area shape="rect" id="node11" href="$qp__solver_8h.html" title=": quadratic programming base class " alt="" coords="43,597,201,638"/>
+<area shape="rect" id="node14" href="$spline__1d_8h.html" title=": piecewise smoothing spline class " alt="" coords="691,694,888,735"/>
+<area shape="rect" id="node18" href="$spline__1d__constraint_8h.html" title=": wrapp up solver constraint interface with direct methods and preset methods " alt="" coords="408,589,572,645"/>
+<area shape="rect" id="node21" href="$spline__1d__kernel_8h.html" title=": wrap up solver constraint interface with direct methods and preset methods " alt="" coords="597,589,761,645"/>
+<area shape="rect" id="node15" href="$polynomial__xd_8h.html" title="modules/planning/math\l/polynomial_xd.h" alt="" coords="870,889,1025,930"/>
+<area shape="rect" id="node16" href="$affine__constraint_8h.html" title="modules/planning/math\l/smoothing_spline/affine\l_constraint.h" alt="" coords="576,784,739,840"/>
+<area shape="rect" id="node17" href="$spline__1d__seg_8h.html" title=": polynomial smoothing spline " alt="" coords="864,784,1028,840"/>
+<area shape="rect" id="node23" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="4197,597,4361,638"/>
+<area shape="rect" id="node26" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="2423,791,2600,833"/>
+<area shape="rect" id="node28" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="1748,597,1921,638"/>
+<area shape="rect" id="node35" href="$task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="3669,201,3827,242"/>
+<area shape="rect" id="node29" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="2974,694,3151,735"/>
+<area shape="rect" id="node34" href="$speed__limit_8h.html" title="modules/planning/common\l/speed_limit.h" alt="" coords="1447,694,1624,735"/>
+<area shape="rect" id="node31" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="3557,889,3715,930"/>
+<area shape="rect" id="node32" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="3818,979,3976,1021"/>
+<area shape="rect" id="node33" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="3818,791,3976,833"/>
+<area shape="rect" id="node36" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="3722,291,3899,333"/>
+<area shape="rect" id="node42" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="3279,389,3456,430"/>
+<area shape="rect" id="node39" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3494,694,3671,735"/>
+<area shape="rect" id="node41" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2778,791,2955,833"/>
+<area shape="rect" id="node43" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="1917,694,2093,735"/>
+<area shape="rect" id="node47" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="3279,493,3456,534"/>
+<area shape="rect" id="node44" href="$discretized__path_8h.html" title="modules/planning/common\l/path/discretized_path.h" alt="" coords="1711,791,1888,833"/>
+<area shape="rect" id="node45" href="$frenet__frame__path_8h.html" title="modules/planning/common\l/path/frenet_frame_path.h" alt="" coords="1510,791,1687,833"/>
+<area shape="rect" id="node46" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="2065,791,2247,833"/>
+<area shape="rect" id="node48" href="$path__obstacle_8h.html" title="modules/planning/common\l/path_obstacle.h" alt="" coords="3190,597,3367,638"/>
+</map>

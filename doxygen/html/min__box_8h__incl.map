@@ -1,0 +1,14 @@
+<map id="modules/perception/obstacle/lidar/object_builder/min_box/min_box.h" name="modules/perception/obstacle/lidar/object_builder/min_box/min_box.h">
+<area shape="rect" id="node5" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1124,214,1281,255"/>
+<area shape="rect" id="node33" href="$base__object__builder_8h.html" title="modules/perception\l/obstacle/lidar/interface\l/base_object_builder.h" alt="" coords="1533,109,1691,165"/>
+<area shape="rect" id="node9" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2379,311,2532,353"/>
+<area shape="rect" id="node14" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="1540,529,1687,570"/>
+<area shape="rect" id="node21" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="568,304,715,360"/>
+<area shape="rect" id="node24" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="187,423,340,465"/>
+<area shape="rect" id="node25" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1026,304,1227,360"/>
+<area shape="rect" id="node12" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2549,431,2725,457"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1873,431,2031,457"/>
+<area shape="rect" id="node32" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1030,409,1223,479"/>
+<area shape="rect" id="node34" href="$geometry__util_8h.html" title="modules/perception\l/common/geometry_util.h" alt="" coords="1635,311,1804,353"/>
+<area shape="rect" id="node36" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1998,311,2137,353"/>
+</map>

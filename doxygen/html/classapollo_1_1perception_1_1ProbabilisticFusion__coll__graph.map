@@ -1,0 +1,6 @@
+<map id="apollo::perception::ProbabilisticFusion" name="apollo::perception::ProbabilisticFusion">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1BaseFusion.html" title="{apollo::perception\l::BaseFusion\n||+ BaseFusion()\l+ ~BaseFusion()\l+ Init()\l+ Fuse()\l+ name()\l}" alt="" coords="5,27,128,178"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1PbfTrackManager.html" title="{apollo::perception\l::PbfTrackManager\n|# tracks_\l|+ ~PbfTrackManager()\l+ GetTracks()\l+ GetTracks()\l+ AddTrack()\l+ RemoveLostTracks()\l}" alt="" coords="153,27,308,178"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1PbfBaseTrackObjectMatcher.html" title="{apollo::perception\l::PbfBaseTrackObjectMatcher\n|# s_max_match_distance_\l|+ PbfBaseTrackObjectMatcher()\l+ ~PbfBaseTrackObjectMatcher()\l+ Match()\l+ Init()\l+ name()\l+ IdAssign()\l+ SetMaxMatchDistance()\l+ GetMaxMatchDistance()\l}" alt="" coords="333,5,552,200"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1PbfSensorManager.html" title="{apollo::perception\l::PbfSensorManager\n|# sensors_\l|+ ~PbfSensorManager()\l+ AddSensorMeasurements()\l+ GetLatestSensorFrames()\l+ GetLatestFrames()\l+ GetSensor()\l+ GetPose()\l# Init()\l}" alt="" coords="576,13,768,193"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="apollo::perception::lowcostvisualizer::BaseContent" name="apollo::perception::lowcostvisualizer::BaseContent">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1CameraContent.html" title="{apollo::perception\l::lowcostvisualizer\l::CameraContent\n|+ camera_objects_\l+ camera_frame_supplement_\l+ _pose_c2w\l+ _pose_c2w_static\l|+ CameraContent()\l}" alt="" coords="5,177,203,327"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1FusionContent.html" title="{apollo::perception\l::lowcostvisualizer\l::FusionContent\n|+ fused_objects_\l|}" alt="" coords="227,199,356,305"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1GroundTruthContent.html" title="{apollo::perception\l::lowcostvisualizer\l::GroundTruthContent\n|+ gt_objects_\l|}" alt="" coords="381,199,528,305"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1ImageContent.html" title="{apollo::perception\l::lowcostvisualizer\l::ImageContent\n|+ image_mat_src_\l|}" alt="" coords="552,199,681,305"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1LaneContent.html" title="{apollo::perception\l::lowcostvisualizer\l::LaneContent\n|+ lane_objects_\l|}" alt="" coords="707,199,836,305"/>
+<area shape="rect" id="node7" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1MotionContent.html" title="{apollo::perception\l::lowcostvisualizer\l::MotionContent\n|+ motion_frame_content_\l|}" alt="" coords="861,199,1032,305"/>
+<area shape="rect" id="node8" href="$classapollo_1_1perception_1_1lowcostvisualizer_1_1RadarContent.html" title="{apollo::perception\l::lowcostvisualizer\l::RadarContent\n|+ _pose_fr2w\l+ _pose_br2w\l+ radar_objects_\l|+ RadarContent()\l}" alt="" coords="1056,184,1185,320"/>
+</map>

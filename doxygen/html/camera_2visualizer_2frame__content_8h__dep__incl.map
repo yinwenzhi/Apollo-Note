@@ -1,0 +1,6 @@
+<map id="modules/perception/obstacle/camera/visualizer/frame_content.h" name="modules/perception/obstacle/camera/visualizer/frame_content.h">
+<area shape="rect" id="node2" href="$base__visualizer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/base_visualizer.h" alt="" coords="5,109,187,165"/>
+<area shape="rect" id="node3" href="$gl__fusion__visualizer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/gl_fusion_visualizer.h" alt="" coords="113,317,295,373"/>
+<area shape="rect" id="node4" href="$visualization__subnode_8h.html" title="modules/perception\l/obstacle/onboard/visualization\l_subnode.h" alt="" coords="103,421,304,477"/>
+<area shape="rect" id="node5" href="$glfw__fusion__viewer_8h.html" title="modules/perception\l/obstacle/camera/visualizer\l/glfw_fusion_viewer.h" alt="" coords="113,213,295,269"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1drivers_1_1rslidar_1_1Input.html" title="Pure virtual RS&#45;LiDAR input base class. " alt="" coords="5,5,152,46"/>
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1rslidar_1_1SocketInput.html" title="Live rslidar input from socket. " alt="" coords="200,5,347,46"/>
+</map>

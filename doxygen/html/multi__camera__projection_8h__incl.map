@@ -1,0 +1,16 @@
+<map id="modules/perception/traffic_light/projection/multi_camera_projection.h" name="modules/perception/traffic_light/projection/multi_camera_projection.h">
+<area shape="rect" id="node7" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="1541,117,1685,173"/>
+<area shape="rect" id="node9" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2779,341,2919,382"/>
+<area shape="rect" id="node18" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="1133,229,1328,285"/>
+<area shape="rect" id="node36" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="2121,229,2255,285"/>
+<area shape="rect" id="node42" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="533,229,667,285"/>
+<area shape="rect" id="node12" href="$log_8h.html" title="modules/common/log.h" alt="" coords="3020,445,3177,472"/>
+<area shape="rect" id="node15" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1635,445,1811,472"/>
+<area shape="rect" id="node23" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="75,341,268,382"/>
+<area shape="rect" id="node26" href="$undistortion_8h.html" title="modules/perception\l/cuda_util/undistortion.h" alt="" coords="696,341,855,382"/>
+<area shape="rect" id="node30" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1494,341,1628,382"/>
+<area shape="rect" id="node32" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="1653,341,1792,382"/>
+<area shape="rect" id="node33" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="496,333,672,389"/>
+<area shape="rect" id="node25" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="87,438,257,479"/>
+<area shape="rect" id="node40" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="2569,333,2703,389"/>
+</map>

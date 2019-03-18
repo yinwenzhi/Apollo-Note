@@ -1,0 +1,27 @@
+<map id="modules/perception/obstacle/onboard/fusion_subnode.h" name="modules/perception/obstacle/onboard/fusion_subnode.h">
+<area shape="rect" id="node7" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="3659,221,3837,262"/>
+<area shape="rect" id="node15" href="$log_8h.html" title="modules/common/log.h" alt="" coords="4376,533,4533,560"/>
+<area shape="rect" id="node21" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="4153,429,4307,470"/>
+<area shape="rect" id="node23" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="53,429,207,470"/>
+<area shape="rect" id="node26" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="4458,221,4651,262"/>
+<area shape="rect" id="node29" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1067,325,1224,366"/>
+<area shape="rect" id="node34" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="611,526,764,567"/>
+<area shape="rect" id="node37" href="$cipv_8h.html" title="modules/perception\l/obstacle/camera/cipv\l/cipv.h" alt="" coords="2337,213,2487,269"/>
+<area shape="rect" id="node42" href="$async__fusion_8h.html" title="modules/perception\l/obstacle/fusion/async\l_fusion/async_fusion.h" alt="" coords="1726,109,1881,165"/>
+<area shape="rect" id="node43" href="$base__fusion_8h.html" title="modules/perception\l/obstacle/fusion/interface\l/base_fusion.h" alt="" coords="1256,213,1424,269"/>
+<area shape="rect" id="node44" href="$probabilistic__fusion_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/probabilistic_fusion.h" alt="" coords="1499,109,1689,165"/>
+<area shape="rect" id="node45" href="$fusion__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_shared_data.h" alt="" coords="1067,213,1231,269"/>
+<area shape="rect" id="node46" href="$lane__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/lane\l_shared_data.h" alt="" coords="2107,317,2260,373"/>
+<area shape="rect" id="node47" href="$motion__service_8h.html" title="modules/perception\l/obstacle/onboard/motion\l_service.h" alt="" coords="2985,109,3153,165"/>
+<area shape="rect" id="node48" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="3127,429,3261,470"/>
+<area shape="rect" id="node49" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="2772,429,2951,470"/>
+<area shape="rect" id="node50" href="$object__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/object\l_shared_data.h" alt="" coords="341,213,504,269"/>
+<area shape="rect" id="node10" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="3681,429,3860,470"/>
+<area shape="rect" id="node12" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="4052,325,4231,366"/>
+<area shape="rect" id="node17" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="3212,533,3388,560"/>
+<area shape="rect" id="node19" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="3279,325,3469,366"/>
+<area shape="rect" id="node28" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="4517,325,4688,366"/>
+<area shape="rect" id="node32" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="273,617,420,658"/>
+<area shape="rect" id="node33" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="891,421,1037,477"/>
+<area shape="rect" id="node35" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1955,421,2156,477"/>
+</map>

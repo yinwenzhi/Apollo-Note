@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseRadarDetector" name="apollo::perception::BaseRadarDetector">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1DummyRadarDetector.html" title="{apollo::perception\l::DummyRadarDetector\n||+ DummyRadarDetector()\l+ ~DummyRadarDetector()\l+ Init()\l+ Detect()\l+ name()\l}" alt="" coords="5,213,187,363"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1ModestRadarDetector.html" title="{apollo::perception\l::ModestRadarDetector\n||+ ModestRadarDetector()\l+ ~ModestRadarDetector()\l+ Init()\l+ Detect()\l+ CollectRadarResult()\l+ name()\l}" alt="" coords="211,205,389,371"/>
+</map>

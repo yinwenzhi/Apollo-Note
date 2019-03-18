@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseTypeFuser" name="apollo::perception::BaseTypeFuser">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1DummyTypeFuser.html" title="{apollo::perception\l::DummyTypeFuser\n||+ DummyTypeFuser()\l+ ~DummyTypeFuser()\l+ Init()\l+ FuseType()\l+ name()\l}" alt="" coords="5,286,163,437"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1SequenceTypeFuser.html" title="{apollo::perception\l::SequenceTypeFuser\n|# sequence_\l# transition_matrix_\l# confidence_smooth_matrix_\l# smooth_matrices_\l# fused_oneshot_probs_\l# fused_sequence_probs_\l# state_back_trace_\l# config_\l# s_alpha_\l|+ SequenceTypeFuser()\l+ ~SequenceTypeFuser()\l+ Init()\l+ FuseType()\l+ name()\l# FuseWithCCRF()\l# RectifyObjectType()\l# RecoverFromLogProb()\l}" alt="" coords="187,205,383,517"/>
+</map>

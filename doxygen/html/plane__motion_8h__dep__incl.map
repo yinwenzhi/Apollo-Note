@@ -1,0 +1,6 @@
+<map id="modules/perception/obstacle/camera/motion/plane_motion.h" name="modules/perception/obstacle/camera/motion/plane_motion.h">
+<area shape="rect" id="node2" href="$motion__service_8h.html" title="modules/perception\l/obstacle/onboard/motion\l_service.h" alt="" coords="204,109,372,165"/>
+<area shape="rect" id="node3" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="5,213,168,269"/>
+<area shape="rect" id="node4" href="$lane__post__processing__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lane\l_post_processing_subnode.h" alt="" coords="193,213,383,269"/>
+<area shape="rect" id="node5" href="$visualization__subnode_8h.html" title="modules/perception\l/obstacle/onboard/visualization\l_subnode.h" alt="" coords="407,213,608,269"/>
+</map>

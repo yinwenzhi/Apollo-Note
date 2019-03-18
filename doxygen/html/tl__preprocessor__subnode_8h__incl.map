@@ -1,0 +1,23 @@
+<map id="modules/perception/traffic_light/onboard/tl_preprocessor_subnode.h" name="modules/perception/traffic_light/onboard/tl_preprocessor_subnode.h">
+<area shape="rect" id="node14" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="2016,221,2169,262"/>
+<area shape="rect" id="node20" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="143,445,277,486"/>
+<area shape="rect" id="node22" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="657,221,792,262"/>
+<area shape="rect" id="node34" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="1405,221,1584,262"/>
+<area shape="rect" id="node37" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="2907,437,3041,493"/>
+<area shape="rect" id="node39" href="$tl__shared__data_8h.html" title="modules/perception\l/traffic_light/base\l/tl_shared_data.h" alt="" coords="2198,213,2332,269"/>
+<area shape="rect" id="node41" href="$traffic__light_2onboard_2hdmap__input_8h.html" title="modules/perception\l/traffic_light/onboard\l/hdmap_input.h" alt="" coords="3454,325,3593,381"/>
+<area shape="rect" id="node45" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="2661,109,2829,165"/>
+<area shape="rect" id="node48" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="2992,213,3171,269"/>
+<area shape="rect" id="node17" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="721,549,897,576"/>
+<area shape="rect" id="node26" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="523,333,687,374"/>
+<area shape="rect" id="node28" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1659,445,1799,486"/>
+<area shape="rect" id="node30" href="$thread_8h.html" title="modules/perception\l/lib/base/thread.h" alt="" coords="354,445,488,486"/>
+<area shape="rect" id="node31" href="$event__manager_8h.html" title="modules/perception\l/onboard/event_manager.h" alt="" coords="1147,333,1323,374"/>
+<area shape="rect" id="node32" href="$onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="1297,445,1431,486"/>
+<area shape="rect" id="node33" href="$shared__data__manager_8h.html" title="modules/perception\l/onboard/shared_data\l_manager.h" alt="" coords="923,437,1069,493"/>
+<area shape="rect" id="node35" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="1761,325,1932,381"/>
+<area shape="rect" id="node40" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="2681,325,2815,381"/>
+<area shape="rect" id="node44" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2533,452,2731,479"/>
+<area shape="rect" id="node47" href="$base__preprocessor_8h.html" title="modules/perception\l/traffic_light/interface\l/base_preprocessor.h" alt="" coords="2459,325,2605,381"/>
+<area shape="rect" id="node50" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="2992,325,3136,381"/>
+</map>

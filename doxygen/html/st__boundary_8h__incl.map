@@ -1,0 +1,8 @@
+<map id="modules/planning/common/speed/st_boundary.h" name="modules/planning/common/speed/st_boundary.h">
+<area shape="rect" id="node9" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="511,187,669,229"/>
+<area shape="rect" id="node11" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="847,369,1005,410"/>
+<area shape="rect" id="node14" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="701,97,859,138"/>
+<area shape="rect" id="node15" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="990,278,1167,319"/>
+<area shape="rect" id="node10" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="369,278,527,319"/>
+<area shape="rect" id="node13" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="654,278,812,319"/>
+</map>

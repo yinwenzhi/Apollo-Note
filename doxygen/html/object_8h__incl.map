@@ -1,0 +1,10 @@
+<map id="modules/perception/obstacle/base/object.h" name="modules/perception/obstacle/base/object.h">
+<area shape="rect" id="node8" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="261,103,415,145"/>
+<area shape="rect" id="node13" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="449,321,596,362"/>
+<area shape="rect" id="node20" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="981,96,1128,152"/>
+<area shape="rect" id="node23" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="563,215,716,257"/>
+<area shape="rect" id="node24" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1394,96,1595,152"/>
+<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="104,223,280,249"/>
+<area shape="rect" id="node28" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2060,223,2217,249"/>
+<area shape="rect" id="node31" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1487,201,1680,271"/>
+</map>

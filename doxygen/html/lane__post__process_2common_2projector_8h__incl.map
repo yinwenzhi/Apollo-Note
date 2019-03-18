@@ -1,0 +1,15 @@
+<map id="modules/perception/obstacle/camera/lane_post_process/common/projector.h" name="modules/perception/obstacle/camera/lane_post_process/common/projector.h">
+<area shape="rect" id="node7" href="$log_8h.html" title="modules/common/log.h" alt="" coords="474,124,631,151"/>
+<area shape="rect" id="node10" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="1105,109,1299,165"/>
+<area shape="rect" id="node34" href="$perception_2obstacle_2camera_2common_2util_8h.html" title="modules/perception\l/obstacle/camera/common\l/util.h" alt="" coords="2522,109,2698,165"/>
+<area shape="rect" id="node19" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1269,325,1445,352"/>
+<area shape="rect" id="node22" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="311,221,503,262"/>
+<area shape="rect" id="node25" href="$undistortion_8h.html" title="modules/perception\l/cuda_util/undistortion.h" alt="" coords="1634,221,1793,262"/>
+<area shape="rect" id="node29" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1312,221,1446,262"/>
+<area shape="rect" id="node31" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="1471,221,1610,262"/>
+<area shape="rect" id="node32" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="529,213,705,269"/>
+<area shape="rect" id="node24" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="261,318,431,359"/>
+<area shape="rect" id="node41" href="$visual__object_8h.html" title="modules/perception\l/obstacle/camera/common\l/visual_object.h" alt="" coords="2189,213,2365,269"/>
+<area shape="rect" id="node42" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="2754,318,2907,359"/>
+<area shape="rect" id="node44" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="2802,409,2949,450"/>
+</map>

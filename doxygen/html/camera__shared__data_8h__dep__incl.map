@@ -1,0 +1,8 @@
+<map id="modules/perception/obstacle/onboard/camera_shared_data.h" name="modules/perception/obstacle/onboard/camera_shared_data.h">
+<area shape="rect" id="node2" href="$camera__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/camera\l_process_subnode.h" alt="" coords="5,109,176,165"/>
+<area shape="rect" id="node3" href="$cipv__subnode_8h.html" title="modules/perception\l/obstacle/onboard/cipv\l_subnode.h" alt="" coords="201,109,353,165"/>
+<area shape="rect" id="node4" href="$motion__service_8h.html" title="modules/perception\l/obstacle/onboard/motion\l_service.h" alt="" coords="429,109,597,165"/>
+<area shape="rect" id="node6" href="$lane__post__processing__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lane\l_post_processing_subnode.h" alt="" coords="217,213,407,269"/>
+<area shape="rect" id="node7" href="$visualization__subnode_8h.html" title="modules/perception\l/obstacle/onboard/visualization\l_subnode.h" alt="" coords="619,213,820,269"/>
+<area shape="rect" id="node5" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="431,213,595,269"/>
+</map>

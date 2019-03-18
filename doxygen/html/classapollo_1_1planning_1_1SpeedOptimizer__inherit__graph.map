@@ -1,0 +1,6 @@
+<map id="apollo::planning::SpeedOptimizer" name="apollo::planning::SpeedOptimizer">
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1DpStSpeedOptimizer.html" title="DpStSpeedOptimizer does ST graph speed planning with dynamic programming algorithm. " alt="" coords="5,419,192,525"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1PolyStSpeedOptimizer.html" title="{apollo::planning::PolySt\lSpeedOptimizer\n||+ PolyStSpeedOptimizer()\l+ Init()\l}" alt="" coords="217,419,391,525"/>
+<area shape="rect" id="node5" href="$classapollo_1_1planning_1_1QpSplineStSpeedOptimizer.html" title="{apollo::planning::QpSpline\lStSpeedOptimizer\n||+ QpSplineStSpeedOptimizer()\l+ Init()\l}" alt="" coords="415,419,616,525"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Task.html" title="{apollo::planning::Task\n|# is_init_\l# frame_\l# reference_line_info_\l|+ Task()\l+ ~Task()\l+ Name()\l+ Execute()\l+ Init()\l}" alt="" coords="229,5,377,171"/>
+</map>

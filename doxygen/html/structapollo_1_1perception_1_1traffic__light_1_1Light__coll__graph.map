@@ -1,0 +1,4 @@
+<map id="apollo::perception::traffic_light::Light" name="apollo::perception::traffic_light::Light">
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1traffic__light_1_1LightRegion.html" title="Light Region in the Image. " alt="" coords="88,5,267,200"/>
+<area shape="rect" id="node4" href="$structapollo_1_1perception_1_1traffic__light_1_1LightStatus.html" title="Light Status. " alt="" coords="291,49,459,156"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="modules/canbus/vehicle/vehicle_controller.h" name="modules/canbus/vehicle/vehicle_controller.h">
+<area shape="rect" id="node2" href="$canbus_8h.html" title="modules/canbus/canbus.h" alt="" coords="5,104,179,131"/>
+<area shape="rect" id="node3" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="255,97,433,138"/>
+<area shape="rect" id="node4" href="$gem__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/gem/gem_vehicle_factory.h" alt="" coords="52,194,239,235"/>
+<area shape="rect" id="node5" href="$lincoln__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lincoln/lincoln_vehicle\l_factory.h" alt="" coords="449,187,612,243"/>
+<area shape="rect" id="node7" href="$gem__controller_8h.html" title="modules/canbus/vehicle\l/gem/gem_controller.h" alt="" coords="508,97,671,138"/>
+<area shape="rect" id="node8" href="$lincoln__controller_8h.html" title="The class of LincolnController. " alt="" coords="695,97,869,138"/>
+<area shape="rect" id="node6" href="$vehicle__factory_8h.html" title="modules/canbus/vehicle\l/vehicle_factory.h" alt="" coords="263,194,425,235"/>
+</map>

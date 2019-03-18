@@ -1,0 +1,4 @@
+<map id="apollo::perception::CameraSharedData" name="apollo::perception::CameraSharedData">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="{apollo::perception\l::CommonSharedData\&lt;\l CameraItem \&gt;\n||+ CommonSharedData()\l+ ~CommonSharedData()\l+ Init()\l+ name()\l+ Reset()\l+ RemoveStaleData()\l+ Add()\l+ Add()\l+ Get()\l+ Get()\land 7 more...\l}" alt="" coords="5,219,176,472"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1SharedData.html" title="{apollo::perception\l::SharedData\n||+ SharedData()\l+ ~SharedData()\l+ Init()\l+ Reset()\l+ RemoveStaleData()\l+ name()\l}" alt="" coords="16,5,164,171"/>
+</map>

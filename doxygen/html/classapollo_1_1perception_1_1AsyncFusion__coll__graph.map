@@ -1,0 +1,4 @@
+<map id="apollo::perception::AsyncFusion" name="apollo::perception::AsyncFusion">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1BaseFusion.html" title="{apollo::perception\l::BaseFusion\n||+ BaseFusion()\l+ ~BaseFusion()\l+ Init()\l+ Fuse()\l+ name()\l}" alt="" coords="5,6,128,157"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1PbfTrackManager.html" title="{apollo::perception\l::PbfTrackManager\n|# tracks_\l|+ ~PbfTrackManager()\l+ GetTracks()\l+ GetTracks()\l+ AddTrack()\l+ RemoveLostTracks()\l}" alt="" coords="153,6,308,157"/>
+</map>

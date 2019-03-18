@@ -1,0 +1,4 @@
+<map id="apollo::localization::LocalizationBase" name="apollo::localization::LocalizationBase">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1MSFLocalization.html" title="generate localization info based on MSF " alt="" coords="5,197,144,318"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1RTKLocalization.html" title="generate localization info based on RTK " alt="" coords="168,189,315,325"/>
+</map>

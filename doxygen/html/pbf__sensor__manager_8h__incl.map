@@ -1,0 +1,13 @@
+<map id="modules/perception/obstacle/fusion/probabilistic_fusion/pbf_sensor_manager.h" name="modules/perception/obstacle/fusion/probabilistic_fusion/pbf_sensor_manager.h">
+<area shape="rect" id="node5" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2165,535,2341,561"/>
+<area shape="rect" id="node8" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1260,318,1417,359"/>
+<area shape="rect" id="node34" href="$pbf__sensor_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_sensor.h" alt="" coords="404,109,591,165"/>
+<area shape="rect" id="node13" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2008,415,2161,457"/>
+<area shape="rect" id="node15" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="1897,633,2044,674"/>
+<area shape="rect" id="node22" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="1401,408,1548,464"/>
+<area shape="rect" id="node25" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="1728,527,1881,569"/>
+<area shape="rect" id="node26" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="666,408,867,464"/>
+<area shape="rect" id="node30" href="$log_8h.html" title="modules/common/log.h" alt="" coords="127,535,284,561"/>
+<area shape="rect" id="node33" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="797,513,989,583"/>
+<area shape="rect" id="node36" href="$pbf__sensor__object_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_sensor_object.h" alt="" coords="469,213,656,269"/>
+</map>

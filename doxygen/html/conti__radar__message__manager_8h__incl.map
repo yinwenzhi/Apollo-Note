@@ -1,0 +1,19 @@
+<map id="modules/drivers/radar/conti_radar/conti_radar_message_manager.h" name="modules/drivers/radar/conti_radar/conti_radar_message_manager.h">
+<area shape="rect" id="node3" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="543,200,701,256"/>
+<area shape="rect" id="node23" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="954,305,1125,346"/>
+<area shape="rect" id="node39" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1518,305,1732,346"/>
+<area shape="rect" id="node42" href="$conti__radar_2protocol_2radar__config__200_8h.html" title="modules/drivers/radar\l/conti_radar/protocol\l/radar_config_200.h" alt="" coords="3037,200,3184,256"/>
+<area shape="rect" id="node44" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="2071,110,2249,151"/>
+<area shape="rect" id="node50" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="3259,110,3417,151"/>
+<area shape="rect" id="node5" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="5,493,181,520"/>
+<area shape="rect" id="node8" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="300,305,447,346"/>
+<area shape="rect" id="node14" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="313,395,472,437"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1440,493,1597,520"/>
+<area shape="rect" id="node21" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1256,486,1415,527"/>
+<area shape="rect" id="node29" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="2197,395,2351,437"/>
+<area shape="rect" id="node37" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1554,395,1736,437"/>
+<area shape="rect" id="node34" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="2067,486,2237,527"/>
+<area shape="rect" id="node46" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="2275,305,2453,346"/>
+<area shape="rect" id="node47" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2835,207,3013,249"/>
+<area shape="rect" id="node49" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="1303,305,1493,346"/>
+</map>

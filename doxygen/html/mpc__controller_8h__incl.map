@@ -1,0 +1,16 @@
+<map id="modules/control/controller/mpc_controller.h" name="modules/control/controller/mpc_controller.h">
+<area shape="rect" id="node7" href="$digital__filter_8h.html" title="Defines the DigitalFilter class. " alt="" coords="333,187,493,229"/>
+<area shape="rect" id="node10" href="$digital__filter__coefficients_8h.html" title="Functions to generate coefficients for digital filter. " alt="" coords="1003,97,1180,138"/>
+<area shape="rect" id="node11" href="$mean__filter_8h.html" title="Defines the MeanFilter class. " alt="" coords="147,187,308,229"/>
+<area shape="rect" id="node14" href="$interpolation__1d_8h.html" title="modules/control/common\l/interpolation_1d.h" alt="" coords="639,187,807,229"/>
+<area shape="rect" id="node16" href="$interpolation__2d_8h.html" title="modules/control/common\l/interpolation_2d.h" alt="" coords="881,187,1049,229"/>
+<area shape="rect" id="node19" href="$trajectory__analyzer_8h.html" title="Defines the TrajectoryAnalyzer class. " alt="" coords="1444,97,1612,138"/>
+<area shape="rect" id="node38" href="$controller_8h.html" title="Defines the Controller base class. " alt="" coords="2553,187,2724,229"/>
+<area shape="rect" id="node22" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1727,187,1929,229"/>
+<area shape="rect" id="node26" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1251,285,1427,312"/>
+<area shape="rect" id="node29" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1851,278,2009,319"/>
+<area shape="rect" id="node32" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1851,459,2009,501"/>
+<area shape="rect" id="node35" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="2085,278,2249,319"/>
+<area shape="rect" id="node31" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1539,369,1697,410"/>
+<area shape="rect" id="node34" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1801,369,1959,410"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="modules/perception/obstacle/onboard/fusion_shared_data.h" name="modules/perception/obstacle/onboard/fusion_shared_data.h">
+<area shape="rect" id="node5" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1208,117,1365,158"/>
+<area shape="rect" id="node33" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="2153,109,2324,165"/>
+<area shape="rect" id="node9" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2848,333,3001,374"/>
+<area shape="rect" id="node14" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="412,438,559,479"/>
+<area shape="rect" id="node21" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="1124,213,1271,269"/>
+<area shape="rect" id="node24" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="573,333,727,374"/>
+<area shape="rect" id="node25" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1522,213,1723,269"/>
+<area shape="rect" id="node12" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2968,445,3144,472"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2477,445,2635,472"/>
+<area shape="rect" id="node32" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1526,318,1719,389"/>
+<area shape="rect" id="node38" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="3049,221,3183,262"/>
+<area shape="rect" id="node40" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="2674,221,2832,262"/>
+<area shape="rect" id="node41" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2683,333,2823,374"/>
+</map>

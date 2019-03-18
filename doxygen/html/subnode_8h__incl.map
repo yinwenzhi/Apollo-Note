@@ -1,0 +1,14 @@
+<map id="modules/perception/onboard/subnode.h" name="modules/perception/onboard/subnode.h">
+<area shape="rect" id="node7" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1109,485,1285,512"/>
+<area shape="rect" id="node10" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="457,103,621,145"/>
+<area shape="rect" id="node13" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1639,298,1779,339"/>
+<area shape="rect" id="node19" href="$thread_8h.html" title="modules/perception\l/lib/base/thread.h" alt="" coords="334,298,468,339"/>
+<area shape="rect" id="node21" href="$event__manager_8h.html" title="modules/perception\l/onboard/event_manager.h" alt="" coords="983,103,1159,145"/>
+<area shape="rect" id="node24" href="$onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="722,201,856,242"/>
+<area shape="rect" id="node30" href="$shared__data__manager_8h.html" title="modules/perception\l/onboard/shared_data\l_manager.h" alt="" coords="1445,96,1592,152"/>
+<area shape="rect" id="node16" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1943,403,2100,429"/>
+<area shape="rect" id="node25" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="264,395,417,437"/>
+<area shape="rect" id="node27" href="$concurrent__queue_8h.html" title="modules/perception\l/lib/base/concurrent\l_queue.h" alt="" coords="493,291,628,347"/>
+<area shape="rect" id="node29" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="494,395,628,437"/>
+<area shape="rect" id="node31" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="1607,201,1765,242"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="modules/canbus/vehicle/lincoln/lincoln_vehicle_factory.h" name="modules/canbus/vehicle/lincoln/lincoln_vehicle_factory.h">
+<area shape="rect" id="node4" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="768,110,947,151"/>
+<area shape="rect" id="node6" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="931,201,1093,242"/>
+<area shape="rect" id="node46" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="543,291,757,333"/>
+<area shape="rect" id="node11" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="2277,382,2448,423"/>
+<area shape="rect" id="node18" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1581,291,1752,333"/>
+<area shape="rect" id="node42" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1887,382,2069,423"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2319,480,2495,507"/>
+<area shape="rect" id="node25" href="$log_8h.html" title="modules/common/log.h" alt="" coords="929,480,1087,507"/>
+<area shape="rect" id="node28" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="493,382,647,423"/>
+<area shape="rect" id="node36" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1379,382,1537,423"/>
+<area shape="rect" id="node33" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="91,473,261,514"/>
+<area shape="rect" id="node40" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1193,473,1352,514"/>
+<area shape="rect" id="node45" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="2116,473,2295,514"/>
+</map>

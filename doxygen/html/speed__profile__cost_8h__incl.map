@@ -1,0 +1,22 @@
+<map id="modules/planning/tasks/poly_st_speed/speed_profile_cost.h" name="modules/planning/tasks/poly_st_speed/speed_profile_cost.h">
+<area shape="rect" id="node5" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="2533,382,2709,423"/>
+<area shape="rect" id="node28" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="3018,110,3195,151"/>
+<area shape="rect" id="node46" href="$speed__limit_8h.html" title="modules/planning/common\l/speed_limit.h" alt="" coords="1735,473,1912,514"/>
+<area shape="rect" id="node47" href="$quartic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quartic_polynomial\l_curve1d.h" alt="" coords="3524,563,3708,619"/>
+<area shape="rect" id="node11" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1187,570,1345,611"/>
+<area shape="rect" id="node14" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="407,758,565,799"/>
+<area shape="rect" id="node17" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1165,473,1323,514"/>
+<area shape="rect" id="node18" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2847,473,3024,514"/>
+<area shape="rect" id="node13" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1187,667,1345,709"/>
+<area shape="rect" id="node16" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="902,667,1060,709"/>
+<area shape="rect" id="node23" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2064,577,2221,604"/>
+<area shape="rect" id="node26" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="3019,570,3165,611"/>
+<area shape="rect" id="node31" href="$path__obstacle_8h.html" title="modules/planning/common\l/path_obstacle.h" alt="" coords="2349,201,2525,242"/>
+<area shape="rect" id="node34" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="891,382,1068,423"/>
+<area shape="rect" id="node38" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="1597,291,1779,333"/>
+<area shape="rect" id="node37" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="94,667,271,709"/>
+<area shape="rect" id="node41" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="499,473,656,514"/>
+<area shape="rect" id="node45" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="1597,382,1779,423"/>
+<area shape="rect" id="node49" href="$polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/polynomial_curve1d.h" alt="" coords="3544,667,3747,709"/>
+<area shape="rect" id="node50" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="3555,758,3711,799"/>
+</map>

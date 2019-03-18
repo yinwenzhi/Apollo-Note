@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1drivers_1_1rslidar_1_1rslidarParser.html" title="RSLIDAR data conversion class. " alt="" coords="5,38,152,79"/>
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1rslidar_1_1rslidar16Parser.html" title="apollo::drivers::rslidar\l::rslidar16Parser" alt="" coords="200,5,347,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1rslidar_1_1rslidar32Parser.html" title="apollo::drivers::rslidar\l::rslidar32Parser" alt="" coords="200,70,347,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="modules/localization/msf/local_map/lossy_map/lossy_map_config_2d.h" name="modules/localization/msf/local_map/lossy_map/lossy_map_config_2d.h">
+<area shape="rect" id="node2" href="$lossy__map__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_2d.h" alt="" coords="129,109,281,165"/>
+<area shape="rect" id="node3" href="$localization__lidar_8h.html" title="modules/localization\l/msf/local_integ/localization\l_lidar.h" alt="" coords="171,213,353,269"/>
+<area shape="rect" id="node4" href="$lidar__msg__transfer_8h.html" title="The class of LidarMagTransfer. " alt="" coords="5,317,147,373"/>
+<area shape="rect" id="node5" href="$localization__integ_8h.html" title="The class of LocalizationInteg. " alt="" coords="378,317,560,373"/>
+<area shape="rect" id="node8" href="$localization__lidar__process_8h.html" title="The class of LocalizationLidarProcess. " alt="" coords="171,317,353,373"/>
+<area shape="rect" id="node6" href="$localization__integ__impl_8h.html" title="The class of LocalizationIntegImpl. " alt="" coords="178,421,360,477"/>
+<area shape="rect" id="node7" href="$msf__localization_8h.html" title="The class of MSFLocalization. " alt="" coords="391,429,548,470"/>
+</map>

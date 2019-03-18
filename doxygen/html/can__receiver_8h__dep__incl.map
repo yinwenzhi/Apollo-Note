@@ -1,0 +1,7 @@
+<map id="modules/drivers/canbus/can_comm/can_receiver.h" name="modules/drivers/canbus/can_comm/can_receiver.h">
+<area shape="rect" id="node2" href="$canbus_8h.html" title="modules/canbus/canbus.h" alt="" coords="5,111,179,137"/>
+<area shape="rect" id="node3" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="204,103,363,145"/>
+<area shape="rect" id="node4" href="$conti__radar__canbus_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus.h" alt="" coords="389,96,547,152"/>
+<area shape="rect" id="node5" href="$racobit__radar__canbus_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus.h" alt="" coords="572,96,719,152"/>
+<area shape="rect" id="node6" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="743,96,921,152"/>
+</map>

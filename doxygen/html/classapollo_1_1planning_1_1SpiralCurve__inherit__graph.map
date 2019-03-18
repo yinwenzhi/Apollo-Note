@@ -1,0 +1,4 @@
+<map id="apollo::planning::SpiralCurve" name="apollo::planning::SpiralCurve">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1CubicSpiralCurve.html" title="{apollo::planning::CubicSpiral\lCurve\n||+ CubicSpiralCurve()\l+ ~CubicSpiralCurve()\l+ CalculatePath()\l+ GetPathVec()\l+ GetPathVecWithS()\l}" alt="" coords="5,366,192,517"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1QuinticSpiralCurve.html" title="{apollo::planning::Quintic\lSpiralCurve\n||+ QuinticSpiralCurve()\l+ ~QuinticSpiralCurve()\l+ CalculatePath()\l+ GetPathVec()\l+ GetPathVecWithS()\l}" alt="" coords="217,366,377,517"/>
+</map>

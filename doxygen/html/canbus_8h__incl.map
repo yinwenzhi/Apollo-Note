@@ -1,0 +1,18 @@
+<map id="modules/canbus/canbus.h" name="modules/canbus/canbus.h">
+<area shape="rect" id="node8" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="2618,81,2781,122"/>
+<area shape="rect" id="node15" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="3510,360,3686,387"/>
+<area shape="rect" id="node19" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="2338,171,2509,213"/>
+<area shape="rect" id="node29" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1214,262,1373,303"/>
+<area shape="rect" id="node39" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1999,171,2213,213"/>
+<area shape="rect" id="node42" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="774,171,937,213"/>
+<area shape="rect" id="node46" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="239,171,410,213"/>
+<area shape="rect" id="node49" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="1737,81,1916,122"/>
+<area shape="rect" id="node13" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="3638,262,3809,303"/>
+<area shape="rect" id="node35" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="2570,262,2752,303"/>
+<area shape="rect" id="node25" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1996,360,2153,387"/>
+<area shape="rect" id="node28" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="2828,262,2981,303"/>
+<area shape="rect" id="node33" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1374,353,1533,394"/>
+<area shape="rect" id="node38" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="1793,353,1972,394"/>
+<area shape="rect" id="node45" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1398,262,1562,303"/>
+<area shape="rect" id="node47" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="90,262,261,303"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::planning::PublishableTrajectory" name="apollo::planning::PublishableTrajectory">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1DiscretizedTrajectory.html" title="{apollo::planning::Discretized\lTrajectory\n|# trajectory_points_\l|+ DiscretizedTrajectory()\l+ DiscretizedTrajectory()\l+ DiscretizedTrajectory()\l+ SetTrajectoryPoints()\l+ ~DiscretizedTrajectory()\l+ StartPoint()\l+ GetTemporalLength()\l+ GetSpatialLength()\l+ Evaluate()\l+ QueryLowerBoundPoint()\land 8 more...\l}" alt="" coords="11,206,197,445"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1Trajectory.html" title="{apollo::planning::Trajectory\n||+ Trajectory()\l+ ~Trajectory()\l+ Evaluate()\l+ StartPoint()\l+ GetTemporalLength()\l+ GetSpatialLength()\l}" alt="" coords="15,6,193,157"/>
+</map>

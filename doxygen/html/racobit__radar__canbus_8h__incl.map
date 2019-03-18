@@ -1,0 +1,23 @@
+<map id="modules/drivers/radar/racobit_radar/racobit_radar_canbus.h" name="modules/drivers/radar/racobit_radar/racobit_radar_canbus.h">
+<area shape="rect" id="node7" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1977,221,2156,262"/>
+<area shape="rect" id="node11" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1012,513,1165,554"/>
+<area shape="rect" id="node18" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="191,611,367,637"/>
+<area shape="rect" id="node21" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="3136,513,3283,554"/>
+<area shape="rect" id="node34" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="353,415,516,457"/>
+<area shape="rect" id="node37" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3206,415,3377,457"/>
+<area shape="rect" id="node41" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1988,513,2147,554"/>
+<area shape="rect" id="node43" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="1495,408,1653,464"/>
+<area shape="rect" id="node44" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="1216,318,1395,359"/>
+<area shape="rect" id="node45" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1053,415,1267,457"/>
+<area shape="rect" id="node46" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1831,415,2003,457"/>
+<area shape="rect" id="node48" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="3707,221,3865,262"/>
+<area shape="rect" id="node49" href="$racobit__radar_2protocol_2radar__config__200_8h.html" title="modules/drivers/radar\l/racobit_radar/protocol\l/radar_config_200.h" alt="" coords="2738,213,2888,269"/>
+<area shape="rect" id="node50" href="$racobit__radar__message__manager_8h.html" title="The class of RacobitRadarMessageManager. " alt="" coords="2375,109,2561,165"/>
+<area shape="rect" id="node10" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="2408,415,2587,457"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="749,611,907,637"/>
+<area shape="rect" id="node28" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2924,318,3103,359"/>
+<area shape="rect" id="node33" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="543,513,733,554"/>
+<area shape="rect" id="node15" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="1205,603,1376,645"/>
+<area shape="rect" id="node36" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1748,513,1912,554"/>
+<area shape="rect" id="node40" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="3307,513,3479,554"/>
+</map>

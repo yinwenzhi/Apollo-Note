@@ -1,0 +1,51 @@
+<map id="modules/common/math/box2d.h" name="modules/common/math/box2d.h">
+<area shape="rect" id="node2" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1895,97,2053,138"/>
+<area shape="rect" id="node6" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="1109,486,1267,527"/>
+<area shape="rect" id="node9" href="$path__obstacle_8h.html" title="modules/planning/common\l/path_obstacle.h" alt="" coords="870,765,1047,806"/>
+<area shape="rect" id="node12" href="$trajectory__cost_8h.html" title="modules/planning/tasks\l/dp_poly_path/trajectory\l_cost.h" alt="" coords="1847,965,2008,1021"/>
+<area shape="rect" id="node22" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="2667,869,2857,910"/>
+<area shape="rect" id="node36" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1925,577,2101,618"/>
+<area shape="rect" id="node41" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="399,667,576,709"/>
+<area shape="rect" id="node46" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="2917,97,3120,138"/>
+<area shape="rect" id="node3" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1563,194,1749,235"/>
+<area shape="rect" id="node21" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="2113,765,2300,806"/>
+<area shape="rect" id="node31" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="1881,298,2068,339"/>
+<area shape="rect" id="node45" href="$adc__trajectory__container_8h.html" title="ADC trajectory container. " alt="" coords="1321,187,1500,243"/>
+<area shape="rect" id="node4" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1703,403,1900,429"/>
+<area shape="rect" id="node30" href="$prediction__map_8h.html" title="modules/prediction\l/common/prediction_map.h" alt="" coords="1585,577,1764,618"/>
+<area shape="rect" id="node32" href="$road__graph_8h.html" title="modules/prediction\l/common/road_graph.h" alt="" coords="1327,298,1480,339"/>
+<area shape="rect" id="node33" href="$prediction_2container_2obstacles_2obstacle_8h.html" title="Obstacle. " alt="" coords="1668,291,1807,347"/>
+<area shape="rect" id="node35" href="$obstacle__clusters_8h.html" title="modules/prediction\l/container/obstacles\l/obstacle_clusters.h" alt="" coords="1505,291,1644,347"/>
+<area shape="rect" id="node5" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1353,667,1511,709"/>
+<area shape="rect" id="node7" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="1404,577,1561,618"/>
+<area shape="rect" id="node8" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="996,667,1177,709"/>
+<area shape="rect" id="node28" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="1097,577,1279,618"/>
+<area shape="rect" id="node29" href="$creeper_8h.html" title="modules/planning/tasks\l/traffic_decider/creeper.h" alt="" coords="1645,765,1811,806"/>
+<area shape="rect" id="node14" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/st_graph/st_boundary\l_mapper.h" alt="" coords="383,965,541,1021"/>
+<area shape="rect" id="node19" href="$speed__limit__decider_8h.html" title="modules/planning/tasks\l/st_graph/speed_limit\l_decider.h" alt="" coords="1378,861,1536,917"/>
+<area shape="rect" id="node20" href="$qp__frenet__frame_8h.html" title=": natural coordinate system " alt="" coords="879,861,1049,917"/>
+<area shape="rect" id="node10" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="1074,869,1251,910"/>
+<area shape="rect" id="node11" href="$dp__road__graph_8h.html" title="modules/planning/tasks\l/dp_poly_path/dp_road\l_graph.h" alt="" coords="1302,1069,1460,1125"/>
+<area shape="rect" id="node13" href="$dp__st__graph_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_graph.h" alt="" coords="567,973,753,1014"/>
+<area shape="rect" id="node15" href="$poly__st__graph_8h.html" title="modules/planning/tasks\l/poly_st_speed/poly_st\l_graph.h" alt="" coords="1210,965,1368,1021"/>
+<area shape="rect" id="node17" href="$qp__spline__path__generator_8h.html" title="modules/planning/tasks\l/qp_spline_path/qp_spline\l_path_generator.h" alt="" coords="878,965,1049,1021"/>
+<area shape="rect" id="node18" href="$dp__st__cost_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_cost.h" alt="" coords="524,869,703,910"/>
+<area shape="rect" id="node16" href="$speed__profile__cost_8h.html" title="modules/planning/tasks\l/poly_st_speed/speed_profile\l_cost.h" alt="" coords="1633,965,1823,1021"/>
+<area shape="rect" id="node24" href="$trajectory1d__generator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/trajectory1d_generator.h" alt="" coords="2457,965,2623,1021"/>
+<area shape="rect" id="node25" href="$end__condition__sampler_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/end_condition_sampler.h" alt="" coords="2421,861,2592,917"/>
+<area shape="rect" id="node26" href="$lateral__trajectory__optimizer_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/lateral_trajectory_optimizer.h" alt="" coords="2153,861,2345,917"/>
+<area shape="rect" id="node27" href="$trajectory__evaluator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/trajectory_evaluator.h" alt="" coords="1965,861,2128,917"/>
+<area shape="rect" id="node23" href="$backup__trajectory__generator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/backup_trajectory_generator.h" alt="" coords="2533,1069,2733,1125"/>
+<area shape="rect" id="node34" href="$predictor_8h.html" title="Define the predictor base class. " alt="" coords="1407,395,1547,437"/>
+<area shape="rect" id="node37" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="1861,667,2037,709"/>
+<area shape="rect" id="node39" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="1836,757,1988,813"/>
+<area shape="rect" id="node40" href="$prediction__querier_8h.html" title="modules/planning/lattice\l/behavior/prediction_querier.h" alt="" coords="2535,765,2727,806"/>
+<area shape="rect" id="node38" href="$planning_8h.html" title="modules/planning/planning.h" alt="" coords="2324,772,2511,799"/>
+<area shape="rect" id="node42" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="155,765,328,806"/>
+<area shape="rect" id="node43" href="$qp__piecewise__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_piecewise_st_graph.h" alt="" coords="239,861,397,917"/>
+<area shape="rect" id="node44" href="$qp__spline__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_graph.h" alt="" coords="5,861,163,917"/>
+<area shape="rect" id="node47" href="$trajectory__analyzer_8h.html" title="Defines the TrajectoryAnalyzer class. " alt="" coords="2935,194,3103,235"/>
+<area shape="rect" id="node49" href="$lon__controller_8h.html" title="Defines the LonController class. " alt="" coords="3128,298,3299,339"/>
+<area shape="rect" id="node50" href="$velodyne64_8h.html" title="modules/perception\l/tool/data_generator\l/velodyne64.h" alt="" coords="3178,187,3315,243"/>
+<area shape="rect" id="node48" href="$lat__controller_8h.html" title="Defines the LatController class. " alt="" coords="2933,298,3104,339"/>
+</map>

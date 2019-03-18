@@ -1,0 +1,13 @@
+<map id="modules/localization/msf/local_map/base_map/base_map.h" name="modules/localization/msf/local_map/base_map/base_map.h">
+<area shape="rect" id="node6" href="$base__map__cache_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_cache.h" alt="" coords="942,109,1116,165"/>
+<area shape="rect" id="node10" href="$base__map__fwd_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_fwd.h" alt="" coords="934,421,1108,477"/>
+<area shape="rect" id="node13" href="$base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="1345,317,1519,373"/>
+<area shape="rect" id="node19" href="$base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="1494,109,1668,165"/>
+<area shape="rect" id="node21" href="$base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="1243,213,1417,269"/>
+<area shape="rect" id="node22" href="$base__map__pool_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_pool.h" alt="" coords="547,109,721,165"/>
+<area shape="rect" id="node18" href="$rect2d_8h.html" title="modules/localization\l/msf/common/util/rect2d.h" alt="" coords="1547,429,1721,470"/>
+<area shape="rect" id="node20" href="$compression_8h.html" title="modules/localization\l/msf/common/util/compression.h" alt="" coords="1609,221,1820,262"/>
+<area shape="rect" id="node23" href="$localization_2msf_2common_2util_2threadpool_8h.html" title="modules/localization\l/msf/common/util/threadpool.h" alt="" coords="463,221,661,262"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="63,332,220,359"/>
+<area shape="rect" id="node32" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="808,332,984,359"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="modules/drivers/lidar_velodyne/pointcloud/fusion.h" name="modules/drivers/lidar_velodyne/pointcloud/fusion.h">
+<area shape="rect" id="node13" href="$lidar__velodyne_2pointcloud_2velodyne__parser_8h.html" title="modules/drivers/lidar\l_velodyne/pointcloud\l/velodyne_parser.h" alt="" coords="1268,109,1412,165"/>
+<area shape="rect" id="node25" href="$lidar__velodyne_2pointcloud_2calibration_8h.html" title="modules/drivers/lidar\l_velodyne/pointcloud\l/calibration.h" alt="" coords="835,317,979,373"/>
+<area shape="rect" id="node27" href="$lidar__velodyne_2pointcloud_2const__variables_8h.html" title="modules/drivers/lidar\l_velodyne/pointcloud\l/const_variables.h" alt="" coords="1003,213,1147,269"/>
+<area shape="rect" id="node28" href="$lidar__velodyne_2pointcloud_2online__calibration_8h.html" title="modules/drivers/lidar\l_velodyne/pointcloud\l/online_calibration.h" alt="" coords="835,213,979,269"/>
+<area shape="rect" id="node29" href="$lidar__velodyne_2pointcloud_2point__types_8h.html" title="modules/drivers/lidar\l_velodyne/pointcloud\l/point_types.h" alt="" coords="1665,213,1809,269"/>
+</map>

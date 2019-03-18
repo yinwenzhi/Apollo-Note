@@ -1,0 +1,11 @@
+<map id="modules/perception/traffic_light/reviser/color_decision.h" name="modules/perception/traffic_light/reviser/color_decision.h">
+<area shape="rect" id="node6" href="$file_8h.html" title="modules/common/util\l/file.h" alt="" coords="1267,117,1413,158"/>
+<area shape="rect" id="node26" href="$base__reviser_8h.html" title="modules/perception\l/traffic_light/interface\l/base_reviser.h" alt="" coords="2279,109,2423,165"/>
+<area shape="rect" id="node41" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="2660,109,2804,165"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="956,332,1113,359"/>
+<area shape="rect" id="node20" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="537,221,684,262"/>
+<area shape="rect" id="node27" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2271,221,2411,262"/>
+<area shape="rect" id="node32" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="2622,317,2756,373"/>
+<area shape="rect" id="node37" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="2703,213,2837,269"/>
+<area shape="rect" id="node29" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2320,332,2496,359"/>
+</map>

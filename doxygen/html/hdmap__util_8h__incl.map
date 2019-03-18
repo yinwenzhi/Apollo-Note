@@ -1,0 +1,12 @@
+<map id="modules/map/hdmap/hdmap_util.h" name="modules/map/hdmap/hdmap_util.h">
+<area shape="rect" id="node7" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="660,97,831,138"/>
+<area shape="rect" id="node9" href="$file_8h.html" title="modules/common/util\l/file.h" alt="" coords="735,369,881,410"/>
+<area shape="rect" id="node24" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="201,459,348,501"/>
+<area shape="rect" id="node30" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2499,104,2696,131"/>
+<area shape="rect" id="node21" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2209,467,2367,493"/>
+<area shape="rect" id="node31" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="3964,195,4140,221"/>
+<area shape="rect" id="node35" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2247,278,2433,319"/>
+<area shape="rect" id="node50" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="2504,187,2691,229"/>
+<area shape="rect" id="node37" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="2493,459,2651,501"/>
+<area shape="rect" id="node38" href="$aaboxkdtree2d_8h.html" title="Defines the templated AABoxKDTree2dNode class. " alt="" coords="2594,369,2752,410"/>
+</map>

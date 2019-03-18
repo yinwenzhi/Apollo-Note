@@ -1,0 +1,23 @@
+<map id="modules/perception/obstacle/lidar/roi_filter/hdmap_roi_filter/hdmap_roi_filter.h" name="modules/perception/obstacle/lidar/roi_filter/hdmap_roi_filter/hdmap_roi_filter.h">
+<area shape="rect" id="node7" href="$log_8h.html" title="modules/common/log.h" alt="" coords="4257,493,4415,520"/>
+<area shape="rect" id="node10" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="4533,141,4725,182"/>
+<area shape="rect" id="node13" href="$hdmap__struct_8h.html" title="modules/perception\l/obstacle/base/hdmap\l_struct.h" alt="" coords="2277,253,2427,309"/>
+<area shape="rect" id="node24" href="$base__roi__filter_8h.html" title="modules/perception\l/obstacle/lidar/interface\l/base_roi_filter.h" alt="" coords="1229,133,1387,189"/>
+<area shape="rect" id="node38" href="$bitmap2d_8h.html" title="modules/perception\l/obstacle/lidar/roi\l_filter/hdmap_roi_filter\l/bitmap2d.h" alt="" coords="4205,366,4355,437"/>
+<area shape="rect" id="node39" href="$polygon__mask_8h.html" title="modules/perception\l/obstacle/lidar/roi\l_filter/hdmap_roi_filter\l/polygon_mask.h" alt="" coords="3937,126,4087,197"/>
+<area shape="rect" id="node41" href="$polygon__scan__converter_8h.html" title="modules/perception\l/obstacle/lidar/roi\l_filter/hdmap_roi_filter\l/polygon_scan_converter.h" alt="" coords="3860,246,4039,317"/>
+<area shape="rect" id="node42" href="$obstacle_2onboard_2hdmap__input_8h.html" title="modules/perception\l/obstacle/onboard/hdmap\l_input.h" alt="" coords="2211,133,2379,189"/>
+<area shape="rect" id="node12" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="4603,261,4773,302"/>
+<area shape="rect" id="node15" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="713,486,867,527"/>
+<area shape="rect" id="node17" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="449,577,596,618"/>
+<area shape="rect" id="node25" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="943,493,1119,520"/>
+<area shape="rect" id="node28" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2466,381,2605,422"/>
+<area shape="rect" id="node31" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1229,261,1387,302"/>
+<area shape="rect" id="node33" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="964,381,1117,422"/>
+<area shape="rect" id="node34" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="1631,373,1777,429"/>
+<area shape="rect" id="node35" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="2682,373,2883,429"/>
+<area shape="rect" id="node44" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1687,261,1851,302"/>
+<area shape="rect" id="node46" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2953,268,3151,295"/>
+<area shape="rect" id="node48" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="3244,486,3431,527"/>
+<area shape="rect" id="node50" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="2959,381,3145,422"/>
+</map>

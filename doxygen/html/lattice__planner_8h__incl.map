@@ -1,0 +1,22 @@
+<map id="modules/planning/planner/lattice/lattice_planner.h" name="modules/planning/planner/lattice/lattice_planner.h">
+<area shape="rect" id="node3" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="261,278,425,319"/>
+<area shape="rect" id="node7" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="3187,187,3364,229"/>
+<area shape="rect" id="node31" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1450,375,1627,417"/>
+<area shape="rect" id="node50" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="382,97,551,138"/>
+<area shape="rect" id="node19" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3709,479,3880,521"/>
+<area shape="rect" id="node25" href="$change__lane__decider_8h.html" title="modules/planning/common\l/change_lane_decider.h" alt="" coords="1606,278,1783,319"/>
+<area shape="rect" id="node38" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1438,577,1615,618"/>
+<area shape="rect" id="node43" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="2835,479,3012,521"/>
+<area shape="rect" id="node47" href="$lag__prediction_8h.html" title="modules/planning/common\l/lag_prediction.h" alt="" coords="3427,479,3604,521"/>
+<area shape="rect" id="node48" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="4355,368,4532,424"/>
+<area shape="rect" id="node49" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="3030,375,3228,417"/>
+<area shape="rect" id="node23" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="3833,577,4004,618"/>
+<area shape="rect" id="node27" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="2096,577,2253,618"/>
+<area shape="rect" id="node35" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="2364,479,2521,521"/>
+<area shape="rect" id="node36" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="881,577,1057,618"/>
+<area shape="rect" id="node37" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="1438,479,1615,521"/>
+<area shape="rect" id="node41" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="577,577,753,618"/>
+<area shape="rect" id="node42" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="4187,472,4364,528"/>
+<area shape="rect" id="node40" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1301,667,1459,709"/>
+<area shape="rect" id="node46" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="2784,577,2931,618"/>
+</map>

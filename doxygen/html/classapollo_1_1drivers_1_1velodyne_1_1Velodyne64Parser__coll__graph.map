@@ -1,0 +1,5 @@
+<map id="apollo::drivers::velodyne::Velodyne64Parser" name="apollo::drivers::velodyne::Velodyne64Parser">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1velodyne_1_1VelodyneParser.html" title="Velodyne data conversion class. " alt="" coords="91,309,269,680"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1velodyne_1_1Calibration.html" title="Calibration class storing entire configuration for the Velodyne. " alt="" coords="5,43,168,208"/>
+<area shape="rect" id="node4" href="$structapollo_1_1drivers_1_1velodyne_1_1Config.html" title="{apollo::drivers::velodyne\l::Config\n|+ frame_id\l+ model\l+ topic\l+ npackets\l+ rpm\l+ firing_data_port\l+ positioning_data_port\l+ prefix_angle\l+ use_sensor_sync\l+ max_range\land 8 more...\l|}" alt="" coords="192,6,355,245"/>
+</map>

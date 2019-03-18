@@ -1,0 +1,10 @@
+<map id="modules/canbus/vehicle/lincoln/lincoln_message_manager.h" name="modules/canbus/vehicle/lincoln/lincoln_message_manager.h">
+<area shape="rect" id="node3" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="445,110,659,151"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="996,299,1153,325"/>
+<area shape="rect" id="node15" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="699,201,852,242"/>
+<area shape="rect" id="node26" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1115,201,1297,242"/>
+<area shape="rect" id="node31" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1413,201,1572,242"/>
+<area shape="rect" id="node20" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="161,291,332,333"/>
+<area shape="rect" id="node22" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="356,299,532,325"/>
+<area shape="rect" id="node29" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="1353,291,1532,333"/>
+</map>

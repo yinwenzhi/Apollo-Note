@@ -1,0 +1,7 @@
+<map id="modules/perception/onboard/common_shared_data.h" name="modules/perception/onboard/common_shared_data.h">
+<area shape="rect" id="node12" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="602,110,736,151"/>
+<area shape="rect" id="node17" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="419,110,577,151"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="569,291,745,317"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="modules/common/log.h" alt="" coords="236,291,393,317"/>
+<area shape="rect" id="node21" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="429,201,568,242"/>
+</map>

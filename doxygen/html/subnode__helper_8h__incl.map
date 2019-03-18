@@ -1,0 +1,8 @@
+<map id="modules/perception/onboard/subnode_helper.h" name="modules/perception/onboard/subnode_helper.h">
+<area shape="rect" id="node5" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="5,381,181,408"/>
+<area shape="rect" id="node8" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="587,96,759,152"/>
+<area shape="rect" id="node16" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="46,201,180,242"/>
+<area shape="rect" id="node18" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="945,201,1103,242"/>
+<area shape="rect" id="node19" href="$log_8h.html" title="modules/common/log.h" alt="" coords="785,381,943,408"/>
+<area shape="rect" id="node22" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="954,291,1093,333"/>
+</map>

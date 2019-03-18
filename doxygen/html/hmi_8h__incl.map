@@ -1,0 +1,15 @@
+<map id="modules/dreamview/backend/hmi/hmi.h" name="modules/dreamview/backend/hmi/hmi.h">
+<area shape="rect" id="node4" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3261,550,3432,591"/>
+<area shape="rect" id="node12" href="$websocket__handler_8h.html" title="modules/dreamview/backend\l/handlers/websocket_handler.h" alt="" coords="290,550,492,591"/>
+<area shape="rect" id="node17" href="$map__service_8h.html" title="modules/dreamview/backend\l/map/map_service.h" alt="" coords="2525,97,2715,138"/>
+<area shape="rect" id="node10" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="3312,641,3483,682"/>
+<area shape="rect" id="node21" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="2318,187,2475,229"/>
+<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1778,467,1975,493"/>
+<area shape="rect" id="node45" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2400,369,2558,410"/>
+<area shape="rect" id="node50" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="2259,278,2416,319"/>
+<area shape="rect" id="node30" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1596,557,1772,584"/>
+<area shape="rect" id="node32" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1639,641,1826,682"/>
+<area shape="rect" id="node44" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="1386,550,1572,591"/>
+<area shape="rect" id="node48" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2783,467,2940,493"/>
+<area shape="rect" id="node49" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="2413,459,2571,501"/>
+</map>

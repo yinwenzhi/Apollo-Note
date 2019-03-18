@@ -1,0 +1,3 @@
+<map id="apollo::drivers::lidar_velodyne::Input" name="apollo::drivers::lidar_velodyne::Input">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1lidar__velodyne_1_1SocketInput.html" title="Live Velodyne input from socket. " alt="" coords="5,248,179,413"/>
+</map>

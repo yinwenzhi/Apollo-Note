@@ -1,0 +1,20 @@
+<map id="modules/planning/integration_tests/planning_test_base.h" name="modules/planning/integration_tests/planning_test_base.h">
+<area shape="rect" id="node9" href="$adapter__gflags_8h.html" title="modules/common/adapters\l/adapter_gflags.h" alt="" coords="1911,473,2089,514"/>
+<area shape="rect" id="node11" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1399,187,1577,229"/>
+<area shape="rect" id="node19" href="$file_8h.html" title="modules/common/util\l/file.h" alt="" coords="753,473,900,514"/>
+<area shape="rect" id="node30" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1289,571,1447,597"/>
+<area shape="rect" id="node39" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="3232,97,3403,138"/>
+<area shape="rect" id="node40" href="$planning_8h.html" title="modules/planning/planning.h" alt="" coords="2657,104,2844,131"/>
+<area shape="rect" id="node15" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1496,375,1675,417"/>
+<area shape="rect" id="node33" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="1588,278,1767,319"/>
+<area shape="rect" id="node36" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2383,285,2559,312"/>
+<area shape="rect" id="node37" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="1791,278,1981,319"/>
+<area shape="rect" id="node32" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="1623,563,1769,605"/>
+<area shape="rect" id="node44" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="3167,278,3329,319"/>
+<area shape="rect" id="node45" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3348,375,3512,417"/>
+<area shape="rect" id="node46" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="2437,187,2584,229"/>
+<area shape="rect" id="node47" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="2839,187,3041,229"/>
+<area shape="rect" id="node48" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2813,278,2989,319"/>
+<area shape="rect" id="node49" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="2559,368,2736,424"/>
+<area shape="rect" id="node50" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="3167,187,3336,229"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="modules/perception/traffic_light/interface/base_preprocessor.h" name="modules/perception/traffic_light/interface/base_preprocessor.h">
+<area shape="rect" id="node4" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="578,117,717,158"/>
+<area shape="rect" id="node13" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="1429,213,1563,269"/>
+<area shape="rect" id="node18" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1046,109,1180,165"/>
+<area shape="rect" id="node7" href="$log_8h.html" title="modules/common/log.h" alt="" coords="101,228,259,255"/>
+<area shape="rect" id="node10" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="283,228,459,255"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="modules/perception/obstacle/camera/filter/object_camera_extended_kalman_filter.h" name="modules/perception/obstacle/camera/filter/object_camera_extended_kalman_filter.h">
+<area shape="rect" id="node6" href="$extended__kalman__filter_8h.html" title="Defines the templated extended Kalman filter class. " alt="" coords="1525,133,1696,174"/>
+<area shape="rect" id="node16" href="$visual__object_8h.html" title="modules/perception\l/obstacle/camera/common\l/visual_object.h" alt="" coords="385,229,561,285"/>
+<area shape="rect" id="node27" href="$base__camera__filter_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_filter.h" alt="" coords="608,125,784,181"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1376,341,1533,368"/>
+<area shape="rect" id="node13" href="$matrix__operations_8h.html" title="Defines some useful matrix operations. " alt="" coords="1603,237,1761,278"/>
+<area shape="rect" id="node18" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="396,334,549,375"/>
+<area shape="rect" id="node20" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="451,425,597,466"/>
+<area shape="rect" id="node29" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1040,341,1216,368"/>
+<area shape="rect" id="node32" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="957,237,1096,278"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="modules/perception/obstacle/camera/lane_post_process/cc_lane_post_processor/lane_frame.h" name="modules/perception/obstacle/camera/lane_post_process/cc_lane_post_processor/lane_frame.h">
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="320,492,478,519"/>
+<area shape="rect" id="node14" href="$group_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/cc_lane\l_post_processor/group.h" alt="" coords="468,126,632,197"/>
+<area shape="rect" id="node17" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="690,357,891,413"/>
+<area shape="rect" id="node20" href="$perception_2obstacle_2camera_2lane__post__process_2common_2util_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/util.h" alt="" coords="117,245,310,301"/>
+<area shape="rect" id="node22" href="$connected__component_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/connected\l_component.h" alt="" coords="3632,350,3856,421"/>
+<area shape="rect" id="node25" href="$lane__post__process_2common_2projector_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/projector.h" alt="" coords="1068,133,1295,189"/>
+<area shape="rect" id="node18" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="3417,470,3610,541"/>
+<area shape="rect" id="node27" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="3086,245,3280,301"/>
+<area shape="rect" id="node43" href="$perception_2obstacle_2camera_2common_2util_8h.html" title="modules/perception\l/obstacle/camera/common\l/util.h" alt="" coords="1727,245,1903,301"/>
+<area shape="rect" id="node33" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="4072,492,4248,519"/>
+<area shape="rect" id="node35" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="4456,365,4648,406"/>
+<area shape="rect" id="node38" href="$undistortion_8h.html" title="modules/perception\l/cuda_util/undistortion.h" alt="" coords="3448,365,3607,406"/>
+<area shape="rect" id="node40" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="4297,365,4431,406"/>
+<area shape="rect" id="node41" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="3982,365,4120,406"/>
+<area shape="rect" id="node42" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="2262,357,2438,413"/>
+<area shape="rect" id="node37" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="4406,485,4576,526"/>
+<area shape="rect" id="node50" href="$visual__object_8h.html" title="modules/perception\l/obstacle/camera/common\l/visual_object.h" alt="" coords="2512,357,2688,413"/>
+</map>

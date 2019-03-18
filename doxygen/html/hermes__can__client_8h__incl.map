@@ -1,0 +1,8 @@
+<map id="modules/drivers/canbus/can_client/hermes_can/hermes_can_client.h" name="modules/drivers/canbus/can_client/hermes_can/hermes_can_client.h">
+<area shape="rect" id="node6" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="480,117,639,158"/>
+<area shape="rect" id="node15" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="664,117,843,158"/>
+<area shape="rect" id="node16" href="$bcan_8h.html" title="modules/drivers/canbus\l/can_client/hermes_can\l/bcan.h" alt="" coords="1296,109,1455,165"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="708,228,865,255"/>
+<area shape="rect" id="node13" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="345,221,504,262"/>
+<area shape="rect" id="node21" href="$bcan__defs_8h.html" title="modules/drivers/canbus\l/can_client/hermes_can\l/bcan_defs.h" alt="" coords="1605,213,1764,269"/>
+</map>

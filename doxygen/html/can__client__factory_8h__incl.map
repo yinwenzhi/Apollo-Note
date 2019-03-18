@@ -1,0 +1,7 @@
+<map id="modules/drivers/canbus/can_client/can_client_factory.h" name="modules/drivers/canbus/can_client/can_client_factory.h">
+<area shape="rect" id="node4" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="99,208,275,235"/>
+<area shape="rect" id="node7" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="252,110,399,151"/>
+<area shape="rect" id="node13" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="897,110,1056,151"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="448,208,605,235"/>
+<area shape="rect" id="node20" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1125,201,1284,242"/>
+</map>

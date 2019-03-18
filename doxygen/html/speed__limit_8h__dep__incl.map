@@ -1,0 +1,14 @@
+<map id="modules/planning/common/speed_limit.h" name="modules/planning/common/speed_limit.h">
+<area shape="rect" id="node2" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="461,103,635,145"/>
+<area shape="rect" id="node10" href="$speed__limit__decider_8h.html" title="modules/planning/tasks\l/st_graph/speed_limit\l_decider.h" alt="" coords="5,200,163,256"/>
+<area shape="rect" id="node11" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/st_graph/st_boundary\l_mapper.h" alt="" coords="947,200,1105,256"/>
+<area shape="rect" id="node12" href="$poly__st__graph_8h.html" title="modules/planning/tasks\l/poly_st_speed/poly_st\l_graph.h" alt="" coords="710,96,868,152"/>
+<area shape="rect" id="node13" href="$speed__profile__cost_8h.html" title="modules/planning/tasks\l/poly_st_speed/speed_profile\l_cost.h" alt="" coords="893,96,1083,152"/>
+<area shape="rect" id="node3" href="$dp__st__graph_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_graph.h" alt="" coords="553,207,740,249"/>
+<area shape="rect" id="node4" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/speed_optimizer.h" alt="" coords="765,207,923,249"/>
+<area shape="rect" id="node8" href="$qp__piecewise__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_piecewise_st_graph.h" alt="" coords="187,200,345,256"/>
+<area shape="rect" id="node9" href="$qp__spline__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_graph.h" alt="" coords="370,200,528,256"/>
+<area shape="rect" id="node5" href="$dp__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_speed\l_optimizer.h" alt="" coords="749,304,928,360"/>
+<area shape="rect" id="node6" href="$poly__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/poly_st_speed/poly_st\l_speed_optimizer.h" alt="" coords="953,304,1111,360"/>
+<area shape="rect" id="node7" href="$qp__spline__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_speed_optimizer.h" alt="" coords="531,304,725,360"/>
+</map>

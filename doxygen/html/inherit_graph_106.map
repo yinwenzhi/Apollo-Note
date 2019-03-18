@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1drivers_1_1canbus_1_1ProtocolData.html" title="apollo::drivers::canbus\l::ProtocolData\&lt; RacobitRadar \&gt;" alt="" coords="5,266,216,307"/>
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ClusterGeneralInfo701.html" title="apollo::drivers::racobit\l_radar::ClusterGeneralInfo701" alt="" coords="269,5,465,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ClusterListStatus600.html" title="apollo::drivers::racobit\l_radar::ClusterListStatus600" alt="" coords="273,70,461,111"/>
+<area shape="rect" id="node4" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ClusterQualityInfo702.html" title="apollo::drivers::racobit\l_radar::ClusterQualityInfo702" alt="" coords="271,135,463,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ObjectExtendedInfo60D.html" title="apollo::drivers::racobit\l_radar::ObjectExtendedInfo60D" alt="" coords="264,201,469,242"/>
+<area shape="rect" id="node6" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ObjectGeneralInfo60B.html" title="apollo::drivers::racobit\l_radar::ObjectGeneralInfo60B" alt="" coords="269,266,464,307"/>
+<area shape="rect" id="node7" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ObjectListStatus60A.html" title="apollo::drivers::racobit\l_radar::ObjectListStatus60A" alt="" coords="273,331,460,373"/>
+<area shape="rect" id="node8" href="$classapollo_1_1drivers_1_1racobit__radar_1_1ObjectQualityInfo60C.html" title="apollo::drivers::racobit\l_radar::ObjectQualityInfo60C" alt="" coords="271,397,462,438"/>
+<area shape="rect" id="node9" href="$classapollo_1_1drivers_1_1racobit__radar_1_1RadarConfig200.html" title="apollo::drivers::racobit\l_radar::RadarConfig200" alt="" coords="287,462,447,503"/>
+<area shape="rect" id="node10" href="$classapollo_1_1drivers_1_1racobit__radar_1_1RadarState201.html" title="apollo::drivers::racobit\l_radar::RadarState201" alt="" coords="290,527,443,569"/>
+</map>

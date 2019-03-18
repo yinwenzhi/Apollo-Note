@@ -1,0 +1,4 @@
+<map id="apollo::relative_map::RelativeMapInterface" name="apollo::relative_map::RelativeMapInterface">
+<area shape="rect" id="node3" href="$classapollo_1_1relative__map_1_1RelativeMap.html" title="{apollo::relative_map\l::RelativeMap\n||+ RelativeMap()\l+ Name()\l+ Init()\l+ Start()\l+ Stop()\l+ ~RelativeMap()\l+ RunOnce()\l+ OnTimer()\l}" alt="" coords="35,373,173,568"/>
+<area shape="rect" id="node2" href="$classapollo_1_1common_1_1ApolloApp.html" title="The base module class to define the interface of an Apollo app. An Apollo app runs infinitely until b..." alt="" coords="5,5,203,171"/>
+</map>

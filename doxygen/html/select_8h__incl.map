@@ -1,0 +1,5 @@
+<map id="modules/perception/traffic_light/rectify/select.h" name="modules/perception/traffic_light/rectify/select.h">
+<area shape="rect" id="node3" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="771,109,915,165"/>
+<area shape="rect" id="node5" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="449,213,583,269"/>
+<area shape="rect" id="node11" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="165,317,299,373"/>
+</map>

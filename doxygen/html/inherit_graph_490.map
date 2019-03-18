@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1traffic__light_1_1IRefine.html" title="base class for refining light this class will add some accuracy information to input lights ..." alt="" coords="5,85,149,126"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1traffic__light_1_1ClassifyBySimple.html" title="classify light&#39;s color using simple cnn " alt="" coords="207,5,374,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1traffic__light_1_1Detection.html" title="refine box region using cnn " alt="" coords="211,85,370,126"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1traffic__light_1_1DummyRefine.html" title="a dummy class " alt="" coords="197,150,384,191"/>
+</map>

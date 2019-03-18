@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1SharedData.html" title="apollo::perception\l::SharedData" alt="" coords="6,157,130,198"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="apollo::perception\l::CommonSharedData\&lt; M \&gt;" alt="" coords="179,5,365,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="apollo::perception\l::CommonSharedData\&lt;\l CameraItem \&gt;" alt="" coords="192,69,352,125"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="apollo::perception\l::CommonSharedData\&lt;\l FusionItem \&gt;" alt="" coords="192,149,352,205"/>
+<area shape="rect" id="node7" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="apollo::perception\l::CommonSharedData\&lt;\l ImageLights \&gt;" alt="" coords="192,229,352,285"/>
+<area shape="rect" id="node9" href="$classapollo_1_1perception_1_1CommonSharedData.html" title="apollo::perception\l::CommonSharedData\&lt;\l LaneObjects \&gt;" alt="" coords="192,309,352,365"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1CameraSharedData.html" title="apollo::perception\l::CameraSharedData" alt="" coords="455,77,601,118"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1FusionSharedData.html" title="apollo::perception\l::FusionSharedData" alt="" coords="459,157,597,198"/>
+<area shape="rect" id="node8" href="$classapollo_1_1perception_1_1traffic__light_1_1TLPreprocessingData.html" title="a image with lights, generated from preprocessing, passed to proc " alt="" coords="414,237,642,278"/>
+<area shape="rect" id="node10" href="$classapollo_1_1perception_1_1LaneSharedData.html" title="apollo::perception\l::LaneSharedData" alt="" coords="465,317,591,358"/>
+</map>

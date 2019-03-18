@@ -1,0 +1,4 @@
+<map id="apollo::planning::Task" name="apollo::planning::Task">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Frame.html" title="Frame holds all data for one planning cycle. " alt="" coords="5,6,208,245"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1ReferenceLineInfo.html" title="ReferenceLineInfo holds all data for one reference line. " alt="" coords="233,6,412,245"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="modules/perception/obstacle/lidar/interface/base_object_builder.h" name="modules/perception/obstacle/lidar/interface/base_object_builder.h">
+<area shape="rect" id="node2" href="$lidar_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/obstacle/lidar/dummy\l/dummy_algorithms.h" alt="" coords="5,109,155,165"/>
+<area shape="rect" id="node3" href="$min__box_8h.html" title="modules/perception\l/obstacle/lidar/object\l_builder/min_box/min_box.h" alt="" coords="180,109,364,165"/>
+<area shape="rect" id="node4" href="$lidar__process_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process.h" alt="" coords="389,109,541,165"/>
+<area shape="rect" id="node6" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="566,109,719,165"/>
+<area shape="rect" id="node5" href="$obstacle__perception_8h.html" title="modules/perception\l/obstacle/onboard/obstacle\l_perception.h" alt="" coords="376,213,555,269"/>
+</map>

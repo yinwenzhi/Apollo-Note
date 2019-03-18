@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseCameraTransformer" name="apollo::perception::BaseCameraTransformer">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1DummyCameraTransformer.html" title="{apollo::perception\l::DummyCameraTransformer\n||+ DummyCameraTransformer()\l+ ~DummyCameraTransformer()\l+ Init()\l+ Transform()\l+ SetExtrinsics()\l+ GetAdjustedExtrinsics()\l+ Name()\l}" alt="" coords="5,235,216,415"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1FlatCameraTransformer.html" title="{apollo::perception\l::FlatCameraTransformer\n||+ FlatCameraTransformer()\l+ ~FlatCameraTransformer()\l+ Init()\l+ Transform()\l+ SetExtrinsics()\l+ GetAdjustedExtrinsics()\l+ Name()\l}" alt="" coords="241,235,428,415"/>
+</map>

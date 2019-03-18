@@ -1,0 +1,6 @@
+<map id="apollo::prediction::SequencePredictor" name="apollo::prediction::SequencePredictor">
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1LaneSequencePredictor.html" title="{apollo::prediction\l::LaneSequencePredictor\n||+ LaneSequencePredictor()\l+ ~LaneSequencePredictor()\l+ Predict()\l# DrawLaneSequenceTrajectory\lPoints()\l}" alt="" coords="5,537,213,687"/>
+<area shape="rect" id="node4" href="$classapollo_1_1prediction_1_1MoveSequencePredictor.html" title="{apollo::prediction\l::MoveSequencePredictor\n||+ MoveSequencePredictor()\l+ ~MoveSequencePredictor()\l+ Predict()\l+ FRIEND_TEST()\l+ FRIEND_TEST()\l}" alt="" coords="237,537,429,687"/>
+<area shape="rect" id="node5" href="$classapollo_1_1prediction_1_1SingleLanePredictor.html" title="{apollo::prediction\l::SingleLanePredictor\n||+ SingleLanePredictor()\l+ ~SingleLanePredictor()\l+ Predict()\l# GenerateTrajectoryPoints()\l}" alt="" coords="453,544,643,680"/>
+<area shape="rect" id="node2" href="$classapollo_1_1prediction_1_1Predictor.html" title="{apollo::prediction\l::Predictor\n|# trajectories_\l|+ Predictor()\l+ ~Predictor()\l+ trajectories()\l+ Predict()\l+ NumOfTrajectories()\l+ Clear()\l+ TrimTrajectories()\l# SetEqualProbability()\l# TrimTrajectory()\l# GenerateTrajectory()\l}" alt="" coords="256,5,409,229"/>
+</map>

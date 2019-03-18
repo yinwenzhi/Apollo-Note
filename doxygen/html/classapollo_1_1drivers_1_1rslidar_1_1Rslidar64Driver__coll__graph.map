@@ -1,0 +1,4 @@
+<map id="apollo::drivers::rslidar::Rslidar64Driver" name="apollo::drivers::rslidar::Rslidar64Driver">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1rslidar_1_1RslidarDriver.html" title="{apollo::drivers::rslidar\l::RslidarDriver\n|# input_\l# output_\l# topic_\l# basetime_\l# last_gps_time_\l|+ RslidarDriver()\l+ ~RslidarDriver()\l+ poll()\l+ init()\l# poll_standard()\l# set_base_time()\l# set_base_time_from\l_nmea_time()\l# update_gps_top_hour()\l}" alt="" coords="4,251,168,519"/>
+<area shape="rect" id="node3" href="$structapollo_1_1drivers_1_1rslidar_1_1Config.html" title="{apollo::drivers::rslidar\l::Config\n|+ frame_id\l+ model\l+ topic\l+ npackets\l+ rpm\l+ msop_data_port\l+ difop_data_port\l|+ Config()\l}" alt="" coords="13,6,160,186"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::Subnode" name="apollo::perception::Subnode">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1Thread.html" title="{apollo::perception\l::Thread\n|# tid_\l# started_\l# joinable_\l# thread_name_\l|+ Thread()\l+ Tid()\l+ SetJoinable()\l+ Start()\l+ Join()\l+ IsAlive()\l+ thread_name()\l+ set_thread_name()\l# Run()\l# ThreadRunner()\l}" alt="" coords="5,13,147,281"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1SharedDataManager.html" title="{apollo::perception\l::SharedDataManager\n||+ SharedDataManager()\l+ ~SharedDataManager()\l+ Init()\l+ GetSharedData()\l+ Reset()\l+ RemoveStaleData()\l}" alt="" coords="171,64,340,229"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1EventManager.html" title="{apollo::perception\l::EventManager\n||+ EventManager()\l+ ~EventManager()\l+ Init()\l+ Publish()\l+ Subscribe()\l+ Subscribe()\l+ Reset()\l+ AvgLenOfEventQueues()\l+ MaxLenOfEventQueues()\l+ GetEventMeta()\l+ GetEventMeta()\l+ GetEventMeta()\l+ GetEventMeta()\l+ NumEvents()\l}" alt="" coords="365,5,547,288"/>
+</map>

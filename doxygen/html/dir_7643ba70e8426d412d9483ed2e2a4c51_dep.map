@@ -1,0 +1,7 @@
+<map id="modules/prediction/network" name="modules/prediction/network">
+<area shape="rect" id="node2" href="dir_50310c89c2cdac801d937db43da3351e.html" title="rnn_model" alt="" coords="37,63,119,111"/>
+<area shape="rect" id="node3" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="43,159,115,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000275_000013.html" title="1" alt="" coords="83,133,91,148"/>
+<area shape="rect" id="clust2" href="dir_7643ba70e8426d412d9483ed2e2a4c51.html" alt="" coords="27,52,227,121"/>
+<area shape="rect" id="clust1" href="dir_98def79fa8ada504f25cb6167266aa6e.html" title="prediction" alt="" coords="16,16,237,132"/>
+</map>

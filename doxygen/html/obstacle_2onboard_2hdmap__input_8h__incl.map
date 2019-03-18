@@ -1,0 +1,16 @@
+<map id="modules/perception/obstacle/onboard/hdmap_input.h" name="modules/perception/obstacle/onboard/hdmap_input.h">
+<area shape="rect" id="node7" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="4705,221,4881,248"/>
+<area shape="rect" id="node10" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1447,117,1611,158"/>
+<area shape="rect" id="node13" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="3108,124,3305,151"/>
+<area shape="rect" id="node41" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="567,305,713,346"/>
+<area shape="rect" id="node48" href="$hdmap__struct_8h.html" title="modules/perception\l/obstacle/base/hdmap\l_struct.h" alt="" coords="1043,109,1193,165"/>
+<area shape="rect" id="node49" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="928,214,1081,255"/>
+<area shape="rect" id="node15" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2601,305,2788,346"/>
+<area shape="rect" id="node37" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="3189,214,3376,255"/>
+<area shape="rect" id="node17" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="2754,486,2912,527"/>
+<area shape="rect" id="node18" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2754,577,2912,618"/>
+<area shape="rect" id="node19" href="$aaboxkdtree2d_8h.html" title="Defines the templated AABoxKDTree2dNode class. " alt="" coords="2290,395,2448,437"/>
+<area shape="rect" id="node22" href="$math__utils_8h.html" title="Math&#45;related util functions. " alt="" coords="2239,486,2397,527"/>
+<area shape="rect" id="node23" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="3338,395,3496,437"/>
+<area shape="rect" id="node24" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="3310,486,3468,527"/>
+</map>

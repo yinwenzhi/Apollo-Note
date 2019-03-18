@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1localization_1_1msf_1_1LRUCache.html" title="apollo::localization\l::msf::LRUCache\&lt; Key,\l MapNode \&gt;" alt="" coords="6,45,170,101"/>
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1MapNodeCacheL1.html" title="The data structure of the MapNodeCacheL1. " alt="" coords="219,5,387,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1MapNodeCacheL2.html" title="The data structure of the MapNodeCacheL2. " alt="" coords="219,85,387,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::BaseAffinityTracker" name="apollo::perception::BaseAffinityTracker">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1CS2DAffinityTracker.html" title="{apollo::perception\l::CS2DAffinityTracker\n||+ CS2DAffinityTracker()\l+ ~CS2DAffinityTracker()\l+ Init()\l+ GetAffinityMatrix()\l+ UpdateTracked()\l}" alt="" coords="5,235,176,386"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1DLFAffinityTracker.html" title="{apollo::perception\l::DLFAffinityTracker\n||+ DLFAffinityTracker()\l+ ~DLFAffinityTracker()\l+ Init()\l+ GetAffinityMatrix()\l+ UpdateTracked()\l}" alt="" coords="200,235,359,386"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1KCFAffinityTracker.html" title="{apollo::perception\l::KCFAffinityTracker\n||+ KCFAffinityTracker()\l+ ~KCFAffinityTracker()\l+ Init()\l+ GetAffinityMatrix()\l+ UpdateTracked()\l}" alt="" coords="384,235,547,386"/>
+</map>

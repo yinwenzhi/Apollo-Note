@@ -1,0 +1,14 @@
+<map id="modules/control" name="modules/control">
+<area shape="rect" id="node3" href="dir_5ce0d7bbd861a1663a18f72f6d210aff.html" title="controller" alt="" coords="37,159,111,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000065_000067.html" title="1" alt="" coords="79,133,87,148"/>
+<area shape="rect" id="node2" href="dir_944be8e321b8ce81c17966337c1255d9.html" title="common" alt="" coords="37,255,109,303"/>
+<area shape="rect" id="node5" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="111,351,183,399"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000066_000013.html" title="1" alt="" coords="120,324,128,338"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000067_000066.html" title="8" alt="" coords="78,229,86,244"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000067_000013.html" title="11" alt="" coords="143,324,158,338"/>
+<area shape="rect" id="node4" href="dir_54c5a030e45c61fd6cac508e343bc7c2.html" title="integration_tests" alt="" coords="135,159,253,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000068_000066.html" title="1" alt="" coords="119,243,127,258"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000068_000013.html" title="1" alt="" coords="166,329,174,344"/>
+<area shape="rect" id="clust2" href="dir_535e3c8ff932517611b98a303f44cc0f.html" alt="" coords="27,52,264,313"/>
+<area shape="rect" id="clust1" href="dir_e05d7e2b1ecd646af5bb94391405f3b5.html" title="modules" alt="" coords="16,16,275,324"/>
+</map>

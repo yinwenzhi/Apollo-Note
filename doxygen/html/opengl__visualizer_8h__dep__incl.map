@@ -1,0 +1,6 @@
+<map id="modules/perception/obstacle/lidar/visualizer/opengl_visualizer/opengl_visualizer.h" name="modules/perception/obstacle/lidar/visualizer/opengl_visualizer/opengl_visualizer.h">
+<area shape="rect" id="node2" href="$lidar__process_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process.h" alt="" coords="5,125,157,181"/>
+<area shape="rect" id="node3" href="$obstacle__perception_8h.html" title="modules/perception\l/obstacle/onboard/obstacle\l_perception.h" alt="" coords="49,229,228,285"/>
+<area shape="rect" id="node4" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="234,125,387,181"/>
+<area shape="rect" id="node5" href="$radar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/radar\l_process_subnode.h" alt="" coords="411,125,569,181"/>
+</map>

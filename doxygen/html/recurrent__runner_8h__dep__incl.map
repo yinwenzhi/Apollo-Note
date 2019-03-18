@@ -1,0 +1,10 @@
+<map id="modules/monitor/common/recurrent_runner.h" name="modules/monitor/common/recurrent_runner.h">
+<area shape="rect" id="node2" href="$can__monitor_8h.html" title="modules/monitor/hardware\l/can/can_monitor.h" alt="" coords="5,97,179,138"/>
+<area shape="rect" id="node3" href="$gps__monitor_8h.html" title="modules/monitor/hardware\l/gps/gps_monitor.h" alt="" coords="203,97,377,138"/>
+<area shape="rect" id="node4" href="$monitor_8h.html" title="modules/monitor/monitor.h" alt="" coords="403,104,579,131"/>
+<area shape="rect" id="node5" href="$static__info__reporter_8h.html" title="modules/monitor/reporters\l/static_info_reporter.h" alt="" coords="603,97,776,138"/>
+<area shape="rect" id="node6" href="$vehicle__state__reporter_8h.html" title="modules/monitor/reporters\l/vehicle_state_reporter.h" alt="" coords="800,97,973,138"/>
+<area shape="rect" id="node7" href="$process__monitor_8h.html" title="modules/monitor/software\l/process_monitor.h" alt="" coords="998,97,1169,138"/>
+<area shape="rect" id="node8" href="$summary__monitor_8h.html" title="modules/monitor/software\l/summary_monitor.h" alt="" coords="1194,97,1365,138"/>
+<area shape="rect" id="node9" href="$topic__monitor_8h.html" title="modules/monitor/software\l/topic_monitor.h" alt="" coords="1390,97,1561,138"/>
+</map>

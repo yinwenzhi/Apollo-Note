@@ -1,0 +1,7 @@
+<map id="modules/perception/obstacle/fusion/interface/base_fusion.h" name="modules/perception/obstacle/fusion/interface/base_fusion.h">
+<area shape="rect" id="node2" href="$async__fusion_8h.html" title="modules/perception\l/obstacle/fusion/async\l_fusion/async_fusion.h" alt="" coords="103,109,259,165"/>
+<area shape="rect" id="node3" href="$async__fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/async\l_fusion_subnode.h" alt="" coords="5,213,168,269"/>
+<area shape="rect" id="node4" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="215,213,379,269"/>
+<area shape="rect" id="node5" href="$probabilistic__fusion_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/probabilistic_fusion.h" alt="" coords="335,109,525,165"/>
+<area shape="rect" id="node6" href="$obstacle__perception_8h.html" title="modules/perception\l/obstacle/onboard/obstacle\l_perception.h" alt="" coords="551,109,729,165"/>
+</map>

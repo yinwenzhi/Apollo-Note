@@ -1,0 +1,24 @@
+<map id="modules/planning/planning.h" name="modules/planning/planning.h">
+<area shape="rect" id="node10" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="867,171,1046,213"/>
+<area shape="rect" id="node26" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="330,269,492,310"/>
+<area shape="rect" id="node29" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="816,366,980,407"/>
+<area shape="rect" id="node31" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="2087,366,2234,407"/>
+<area shape="rect" id="node33" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1488,269,1691,310"/>
+<area shape="rect" id="node37" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="3449,171,3626,213"/>
+<area shape="rect" id="node48" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="4384,261,4560,317"/>
+<area shape="rect" id="node50" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="3453,81,3622,122"/>
+<area shape="rect" id="node13" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1006,366,1184,407"/>
+<area shape="rect" id="node16" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="1715,269,1894,310"/>
+<area shape="rect" id="node22" href="$log_8h.html" title="modules/common/log.h" alt="" coords="483,464,640,491"/>
+<area shape="rect" id="node23" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1418,464,1594,491"/>
+<area shape="rect" id="node24" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="1070,269,1260,310"/>
+<area shape="rect" id="node35" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="2258,366,2416,407"/>
+<area shape="rect" id="node36" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1970,457,2128,498"/>
+<area shape="rect" id="node42" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3528,366,3699,407"/>
+<area shape="rect" id="node43" href="$change__lane__decider_8h.html" title="modules/planning/common\l/change_lane_decider.h" alt="" coords="4080,269,4256,310"/>
+<area shape="rect" id="node44" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="4181,366,4358,407"/>
+<area shape="rect" id="node45" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="3173,366,3350,407"/>
+<area shape="rect" id="node46" href="$lag__prediction_8h.html" title="modules/planning/common\l/lag_prediction.h" alt="" coords="3322,269,3499,310"/>
+<area shape="rect" id="node47" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3069,269,3246,310"/>
+<area shape="rect" id="node49" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="3574,269,3772,310"/>
+</map>

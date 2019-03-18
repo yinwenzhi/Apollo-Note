@@ -1,0 +1,9 @@
+<map id="modules/common/vehicle_state/vehicle_state_provider.h" name="modules/common/vehicle_state/vehicle_state_provider.h">
+<area shape="rect" id="node2" href="$trajectory__analyzer_8h.html" title="Defines the TrajectoryAnalyzer class. " alt="" coords="220,103,388,145"/>
+<area shape="rect" id="node4" href="$lon__controller_8h.html" title="Defines the LonController class. " alt="" coords="395,201,565,242"/>
+<area shape="rect" id="node6" href="$velodyne64_8h.html" title="modules/perception\l/tool/data_generator\l/velodyne64.h" alt="" coords="499,96,636,152"/>
+<area shape="rect" id="node7" href="$planning_8h.html" title="modules/planning/planning.h" alt="" coords="661,111,848,137"/>
+<area shape="rect" id="node3" href="$lat__controller_8h.html" title="Defines the LatController class. " alt="" coords="5,201,176,242"/>
+<area shape="rect" id="node5" href="$mpc__controller_8h.html" title="Defines the MPCController class. " alt="" coords="200,201,371,242"/>
+<area shape="rect" id="node8" href="$planning__test__base_8h.html" title="modules/planning/integration\l_tests/planning_test_base.h" alt="" coords="661,201,848,242"/>
+</map>

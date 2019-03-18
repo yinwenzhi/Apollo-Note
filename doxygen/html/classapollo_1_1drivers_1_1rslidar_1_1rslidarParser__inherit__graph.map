@@ -1,0 +1,4 @@
+<map id="apollo::drivers::rslidar::rslidarParser" name="apollo::drivers::rslidar::rslidarParser">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1rslidar_1_1rslidar16Parser.html" title="{apollo::drivers::rslidar\l::rslidar16Parser\n||+ rslidar16Parser()\l+ ~rslidar16Parser()\l+ init_setup()\l+ loadConfigFile()\l+ unpack()\l+ correctAzimuth()\l}" alt="" coords="5,235,152,400"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1rslidar_1_1rslidar32Parser.html" title="{apollo::drivers::rslidar\l::rslidar32Parser\n||+ rslidar32Parser()\l+ ~rslidar32Parser()\l+ init_setup()\l+ loadConfigFile()\l+ unpack()\l+ correctAzimuth()\l}" alt="" coords="176,235,323,400"/>
+</map>

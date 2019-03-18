@@ -1,0 +1,10 @@
+<map id="modules/perception/obstacle/camera/transformer/flat_camera_transformer.h" name="modules/perception/obstacle/camera/transformer/flat_camera_transformer.h">
+<area shape="rect" id="node12" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1339,325,1496,352"/>
+<area shape="rect" id="node15" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="163,109,339,165"/>
+<area shape="rect" id="node18" href="$visual__object_8h.html" title="modules/perception\l/obstacle/camera/common\l/visual_object.h" alt="" coords="356,213,532,269"/>
+<area shape="rect" id="node28" href="$base__camera__transformer_8h.html" title="modules/perception\l/obstacle/camera/interface\l/base_camera_transformer.h" alt="" coords="709,109,896,165"/>
+<area shape="rect" id="node19" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="345,318,499,359"/>
+<area shape="rect" id="node21" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="449,409,596,450"/>
+<area shape="rect" id="node29" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1139,325,1315,352"/>
+<area shape="rect" id="node32" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="861,221,1000,262"/>
+</map>

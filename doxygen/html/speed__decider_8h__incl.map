@@ -1,0 +1,21 @@
+<map id="modules/planning/tasks/speed_decider/speed_decider.h" name="modules/planning/tasks/speed_decider/speed_decider.h">
+<area shape="rect" id="node5" href="$task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="1049,97,1207,138"/>
+<area shape="rect" id="node7" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="303,278,467,319"/>
+<area shape="rect" id="node10" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2234,187,2411,229"/>
+<area shape="rect" id="node34" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="2108,375,2284,417"/>
+<area shape="rect" id="node22" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="909,479,1080,521"/>
+<area shape="rect" id="node28" href="$change__lane__decider_8h.html" title="modules/planning/common\l/change_lane_decider.h" alt="" coords="2616,278,2792,319"/>
+<area shape="rect" id="node41" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="2230,577,2407,618"/>
+<area shape="rect" id="node44" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="4134,479,4311,521"/>
+<area shape="rect" id="node48" href="$lag__prediction_8h.html" title="modules/planning/common\l/lag_prediction.h" alt="" coords="4473,479,4650,521"/>
+<area shape="rect" id="node49" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="1177,368,1354,424"/>
+<area shape="rect" id="node50" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="3957,375,4155,417"/>
+<area shape="rect" id="node26" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="889,577,1060,618"/>
+<area shape="rect" id="node30" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="2939,577,3096,618"/>
+<area shape="rect" id="node38" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="3055,479,3212,521"/>
+<area shape="rect" id="node39" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="2636,577,2812,618"/>
+<area shape="rect" id="node40" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="2349,479,2526,521"/>
+<area shape="rect" id="node42" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="1724,577,1900,618"/>
+<area shape="rect" id="node43" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="1177,472,1354,528"/>
+<area shape="rect" id="node47" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="4267,577,4414,618"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="modules/perception/traffic_light/preprocessor/tl_preprocessor.h" name="modules/perception/traffic_light/preprocessor/tl_preprocessor.h">
+<area shape="rect" id="node7" href="$timer_8h.html" title="modules/common/time\l/timer.h" alt="" coords="1424,445,1577,486"/>
+<area shape="rect" id="node13" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1990,445,2124,486"/>
+<area shape="rect" id="node15" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="195,437,329,493"/>
+<area shape="rect" id="node20" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="723,221,857,277"/>
+<area shape="rect" id="node26" href="$base__preprocessor_8h.html" title="modules/perception\l/traffic_light/interface\l/base_preprocessor.h" alt="" coords="908,221,1055,277"/>
+<area shape="rect" id="node32" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="1572,109,1751,165"/>
+<area shape="rect" id="node10" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2031,549,2207,576"/>
+<area shape="rect" id="node21" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="698,333,832,389"/>
+<area shape="rect" id="node25" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="2391,333,2525,389"/>
+<area shape="rect" id="node27" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="854,445,993,486"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="725,549,883,576"/>
+<area shape="rect" id="node34" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="1689,221,1833,277"/>
+<area shape="rect" id="node35" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="2172,333,2367,389"/>
+<area shape="rect" id="node40" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="3177,445,3369,486"/>
+<area shape="rect" id="node42" href="$undistortion_8h.html" title="modules/perception\l/cuda_util/undistortion.h" alt="" coords="1805,445,1964,486"/>
+<area shape="rect" id="node45" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="2200,445,2339,486"/>
+<area shape="rect" id="node46" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="2976,437,3152,493"/>
+<area shape="rect" id="node41" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="3157,542,3328,583"/>
+</map>

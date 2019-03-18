@@ -1,0 +1,16 @@
+<map id="modules/canbus/vehicle/vehicle_factory.h" name="modules/canbus/vehicle/vehicle_factory.h">
+<area shape="rect" id="node3" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="1596,97,1775,138"/>
+<area shape="rect" id="node48" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="1956,278,2103,319"/>
+<area shape="rect" id="node6" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="989,187,1152,229"/>
+<area shape="rect" id="node45" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1345,278,1559,319"/>
+<area shape="rect" id="node11" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="1633,369,1804,410"/>
+<area shape="rect" id="node18" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="747,278,919,319"/>
+<area shape="rect" id="node41" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="757,369,939,410"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1797,467,1973,493"/>
+<area shape="rect" id="node25" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1371,467,1528,493"/>
+<area shape="rect" id="node28" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="2073,369,2227,410"/>
+<area shape="rect" id="node35" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="572,369,731,410"/>
+<area shape="rect" id="node33" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="2379,459,2549,501"/>
+<area shape="rect" id="node39" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1187,459,1345,501"/>
+<area shape="rect" id="node44" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="759,459,937,501"/>
+</map>

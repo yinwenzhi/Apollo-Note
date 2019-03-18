@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::BaseMapNodePool" name="apollo::localization::msf::BaseMapNodePool">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LosslessMapNodePool.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="5,323,200,429"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1LossyMapNodePool2D.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="224,323,419,429"/>
+</map>

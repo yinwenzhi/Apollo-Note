@@ -1,0 +1,15 @@
+<map id="modules/perception/traffic_light/interface/base_projection.h" name="modules/perception/traffic_light/interface/base_projection.h">
+<area shape="rect" id="node5" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="323,221,463,262"/>
+<area shape="rect" id="node14" href="$calibration__config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/calibration_config_manager.h" alt="" coords="1868,109,2063,165"/>
+<area shape="rect" id="node34" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="987,109,1121,165"/>
+<area shape="rect" id="node40" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="2355,109,2489,165"/>
+<area shape="rect" id="node8" href="$log_8h.html" title="modules/common/log.h" alt="" coords="156,325,313,352"/>
+<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1621,325,1797,352"/>
+<area shape="rect" id="node21" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="1965,221,2157,262"/>
+<area shape="rect" id="node24" href="$undistortion_8h.html" title="modules/perception\l/cuda_util/undistortion.h" alt="" coords="2927,221,3085,262"/>
+<area shape="rect" id="node28" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1642,221,1776,262"/>
+<area shape="rect" id="node30" href="$singleton_8h.html" title="modules/perception\l/lib/base/singleton.h" alt="" coords="1801,221,1940,262"/>
+<area shape="rect" id="node31" href="$camera_2common_2camera_8h.html" title="modules/perception\l/obstacle/camera/common\l/camera.h" alt="" coords="2183,213,2359,269"/>
+<area shape="rect" id="node23" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="1976,318,2147,359"/>
+<area shape="rect" id="node38" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="539,213,673,269"/>
+</map>

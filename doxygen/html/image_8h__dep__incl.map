@@ -1,0 +1,23 @@
+<map id="modules/perception/traffic_light/base/image.h" name="modules/perception/traffic_light/base/image.h">
+<area shape="rect" id="node2" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="307,213,441,269"/>
+<area shape="rect" id="node4" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="226,525,408,581"/>
+<area shape="rect" id="node5" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="5,421,173,477"/>
+<area shape="rect" id="node6" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="799,109,933,165"/>
+<area shape="rect" id="node7" href="$base__preprocessor_8h.html" title="modules/perception\l/traffic_light/interface\l/base_preprocessor.h" alt="" coords="136,213,283,269"/>
+<area shape="rect" id="node12" href="$base__recognizer_8h.html" title="modules/perception\l/traffic_light/interface\l/base_recognizer.h" alt="" coords="1397,213,1541,269"/>
+<area shape="rect" id="node14" href="$base__rectifier_8h.html" title="modules/perception\l/traffic_light/interface\l/base_rectifier.h" alt="" coords="660,213,804,269"/>
+<area shape="rect" id="node16" href="$base__reviser_8h.html" title="modules/perception\l/traffic_light/interface\l/base_reviser.h" alt="" coords="1632,213,1776,269"/>
+<area shape="rect" id="node3" href="$tl__shared__data_8h.html" title="modules/perception\l/traffic_light/base\l/tl_shared_data.h" alt="" coords="198,421,332,477"/>
+<area shape="rect" id="node8" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="467,213,611,269"/>
+<area shape="rect" id="node18" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="1096,213,1240,269"/>
+<area shape="rect" id="node19" href="$classify_8h.html" title="modules/perception\l/traffic_light/recognizer\l/classify.h" alt="" coords="976,317,1129,373"/>
+<area shape="rect" id="node21" href="$detection_8h.html" title="modules/perception\l/traffic_light/rectify\l/detection.h" alt="" coords="817,317,951,373"/>
+<area shape="rect" id="node9" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="228,317,407,373"/>
+<area shape="rect" id="node11" href="$projection_8h.html" title="modules/perception\l/traffic_light/projection\l/projection.h" alt="" coords="431,317,581,373"/>
+<area shape="rect" id="node10" href="$tl__proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_proc_subnode.h" alt="" coords="1098,421,1237,477"/>
+<area shape="rect" id="node13" href="$unity__recognize_8h.html" title="modules/perception\l/traffic_light/recognizer\l/unity_recognize.h" alt="" coords="1524,317,1677,373"/>
+<area shape="rect" id="node15" href="$unity__rectify_8h.html" title="modules/perception\l/traffic_light/rectify\l/unity_rectify.h" alt="" coords="658,317,792,373"/>
+<area shape="rect" id="node17" href="$color__decision_8h.html" title="modules/perception\l/traffic_light/reviser\l/color_decision.h" alt="" coords="1703,317,1837,373"/>
+<area shape="rect" id="node20" href="$cropbox_8h.html" title="modules/perception\l/traffic_light/rectify\l/cropbox.h" alt="" coords="1206,317,1340,373"/>
+<area shape="rect" id="node22" href="$select_8h.html" title="modules/perception\l/traffic_light/rectify\l/select.h" alt="" coords="1365,317,1499,373"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::perception::BaseCameraTracker" name="apollo::perception::BaseCameraTracker">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1CascadedCameraTracker.html" title="{apollo::perception\l::CascadedCameraTracker\n||+ CascadedCameraTracker()\l+ ~CascadedCameraTracker()\l+ Init()\l+ Associate()\l+ Name()\l}" alt="" coords="5,206,203,357"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1DummyCameraTracker.html" title="{apollo::perception\l::DummyCameraTracker\n||+ DummyCameraTracker()\l+ ~DummyCameraTracker()\l+ Init()\l+ Associate()\l+ Name()\l}" alt="" coords="228,206,415,357"/>
+</map>

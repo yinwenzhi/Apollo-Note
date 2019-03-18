@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::BaseMapNode" name="apollo::localization::msf::BaseMapNode">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LosslessMapNode.html" title="{apollo::localization\l::msf::LosslessMapNode\n|# min_altitude_\l|+ LosslessMapNode()\l+ ~LosslessMapNode()\l+ SetValue()\l+ SetValueIfInBound()\l+ SetValueLayer()\l+ GetValue()\l+ GetVar()\l+ GetAlt()\l+ GetAltVar()\l+ GetCount()\land 14 more...\l}" alt="" coords="5,587,173,826"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1LossyMapNode2D.html" title="{apollo::localization\l::msf::LossyMapNode2D\n||+ LossyMapNode2D()\l+ ~LossyMapNode2D()\l}" alt="" coords="197,653,365,760"/>
+</map>

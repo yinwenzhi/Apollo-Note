@@ -1,0 +1,13 @@
+<map id="modules/drivers/lidar_velodyne/pointcloud/multiple_velodyne_adapter.h" name="modules/drivers/lidar_velodyne/pointcloud/multiple_velodyne_adapter.h">
+<area shape="rect" id="node5" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="658,110,837,151"/>
+<area shape="rect" id="node21" href="$log_8h.html" title="modules/common/log.h" alt="" coords="3473,493,3630,520"/>
+<area shape="rect" id="node11" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1421,298,1600,339"/>
+<area shape="rect" id="node23" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="773,493,949,520"/>
+<area shape="rect" id="node33" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2845,201,3024,242"/>
+<area shape="rect" id="node50" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="146,395,336,437"/>
+<area shape="rect" id="node18" href="$adapter__gflags_8h.html" title="modules/common/adapters\l/adapter_gflags.h" alt="" coords="2156,395,2334,437"/>
+<area shape="rect" id="node20" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="969,395,1122,437"/>
+<area shape="rect" id="node25" href="$file_8h.html" title="modules/common/util\l/file.h" alt="" coords="1390,395,1537,437"/>
+<area shape="rect" id="node26" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="1390,486,1537,527"/>
+<area shape="rect" id="node27" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="513,395,660,437"/>
+</map>

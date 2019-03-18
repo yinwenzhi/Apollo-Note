@@ -1,0 +1,7 @@
+<map id="modules/perception/common/sequence_type_fuser/base_type_fuser.h" name="modules/perception/common/sequence_type_fuser/base_type_fuser.h">
+<area shape="rect" id="node2" href="$sequence__type__fuser_8h.html" title="modules/perception\l/common/sequence_type\l_fuser/sequence_type_fuser.h" alt="" coords="5,109,203,165"/>
+<area shape="rect" id="node3" href="$lidar_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/obstacle/lidar/dummy\l/dummy_algorithms.h" alt="" coords="227,109,377,165"/>
+<area shape="rect" id="node4" href="$lidar__process_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process.h" alt="" coords="402,109,555,165"/>
+<area shape="rect" id="node6" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="579,109,732,165"/>
+<area shape="rect" id="node5" href="$obstacle__perception_8h.html" title="modules/perception\l/obstacle/onboard/obstacle\l_perception.h" alt="" coords="389,213,568,269"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="modules/perception/obstacle/lidar/interface/base_ground_detector.h" name="modules/perception/obstacle/lidar/interface/base_ground_detector.h">
+<area shape="rect" id="node3" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="84,200,260,227"/>
+<area shape="rect" id="node6" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="1197,110,1344,151"/>
+<area shape="rect" id="node13" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="270,110,409,151"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="655,200,812,227"/>
+</map>

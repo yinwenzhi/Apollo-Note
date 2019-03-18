@@ -1,0 +1,3 @@
+<map id="apollo::drivers::rslidar::Rslidar32Driver" name="apollo::drivers::rslidar::Rslidar32Driver">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1rslidar_1_1RslidarDriver.html" title="{apollo::drivers::rslidar\l::RslidarDriver\n|# config_\l# input_\l# output_\l# topic_\l# basetime_\l# last_gps_time_\l|+ RslidarDriver()\l+ ~RslidarDriver()\l+ poll()\l+ init()\l# poll_standard()\l# set_base_time()\l# set_base_time_from\l_nmea_time()\l# update_gps_top_hour()\l}" alt="" coords="11,5,175,288"/>
+</map>

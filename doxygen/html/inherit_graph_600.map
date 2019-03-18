@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1prediction_1_1Predictor.html" title="apollo::prediction\l::Predictor" alt="" coords="5,103,125,145"/>
+<area shape="rect" id="node2" href="$classapollo_1_1prediction_1_1EmptyPredictor.html" title="apollo::prediction\l::EmptyPredictor" alt="" coords="184,5,304,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1FreeMovePredictor.html" title="apollo::prediction\l::FreeMovePredictor" alt="" coords="174,70,314,111"/>
+<area shape="rect" id="node4" href="$classapollo_1_1prediction_1_1RegionalPredictor.html" title="apollo::prediction\l::RegionalPredictor" alt="" coords="177,135,311,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1prediction_1_1SequencePredictor.html" title="apollo::prediction\l::SequencePredictor" alt="" coords="174,201,314,242"/>
+<area shape="rect" id="node6" href="$classapollo_1_1prediction_1_1LaneSequencePredictor.html" title="apollo::prediction\l::LaneSequencePredictor" alt="" coords="365,135,533,177"/>
+<area shape="rect" id="node7" href="$classapollo_1_1prediction_1_1MoveSequencePredictor.html" title="apollo::prediction\l::MoveSequencePredictor" alt="" coords="363,201,535,242"/>
+<area shape="rect" id="node8" href="$classapollo_1_1prediction_1_1SingleLanePredictor.html" title="apollo::prediction\l::SingleLanePredictor" alt="" coords="376,266,523,307"/>
+</map>

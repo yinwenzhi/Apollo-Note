@@ -1,0 +1,6 @@
+<map id="modules/dreamview/backend/handlers/websocket_handler.h" name="modules/dreamview/backend/handlers/websocket_handler.h">
+<area shape="rect" id="node2" href="$dreamview_8h.html" title="modules/dreamview/backend\l/dreamview.h" alt="" coords="136,201,326,242"/>
+<area shape="rect" id="node3" href="$hmi_8h.html" title="modules/dreamview/backend\l/hmi/hmi.h" alt="" coords="29,103,219,145"/>
+<area shape="rect" id="node4" href="$point__cloud__updater_8h.html" title="modules/dreamview/backend\l/point_cloud/point_cloud\l_updater.h" alt="" coords="244,96,434,152"/>
+<area shape="rect" id="node5" href="$simulation__world__updater_8h.html" title="modules/dreamview/backend\l/simulation_world/simulation\l_world_updater.h" alt="" coords="458,96,648,152"/>
+</map>

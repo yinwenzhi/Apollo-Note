@@ -1,0 +1,5 @@
+<map id="modules/perception/traffic_light/base/image_lights.h" name="modules/perception/traffic_light/base/image_lights.h">
+<area shape="rect" id="node2" href="$tl__shared__data_8h.html" title="modules/perception\l/traffic_light/base\l/tl_shared_data.h" alt="" coords="5,109,139,165"/>
+<area shape="rect" id="node4" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="163,109,332,165"/>
+<area shape="rect" id="node3" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="69,213,251,269"/>
+</map>

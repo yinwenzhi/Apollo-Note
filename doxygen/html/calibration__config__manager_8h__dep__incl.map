@@ -1,0 +1,12 @@
+<map id="modules/perception/lib/config_manager/calibration_config_manager.h" name="modules/perception/lib/config_manager/calibration_config_manager.h">
+<area shape="rect" id="node2" href="$lane__post__process_2common_2projector_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/projector.h" alt="" coords="5,109,232,165"/>
+<area shape="rect" id="node5" href="$camera__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/camera\l_process_subnode.h" alt="" coords="257,109,428,165"/>
+<area shape="rect" id="node6" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="453,109,597,165"/>
+<area shape="rect" id="node3" href="$lane__frame_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/cc_lane\l_post_processor/lane_frame.h" alt="" coords="20,214,217,285"/>
+<area shape="rect" id="node4" href="$cc__lane__post__processor_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/cc_lane\l_post_processor/cc_lane\l_post_processor.h" alt="" coords="35,333,201,419"/>
+<area shape="rect" id="node7" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="389,221,568,277"/>
+<area shape="rect" id="node11" href="$projection_8h.html" title="modules/perception\l/traffic_light/projection\l/projection.h" alt="" coords="593,221,743,277"/>
+<area shape="rect" id="node8" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="271,348,440,404"/>
+<area shape="rect" id="node9" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="326,467,508,523"/>
+<area shape="rect" id="node10" href="$tl__proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_proc_subnode.h" alt="" coords="517,348,656,404"/>
+</map>

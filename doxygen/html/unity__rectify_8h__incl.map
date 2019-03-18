@@ -1,0 +1,9 @@
+<map id="modules/perception/traffic_light/rectify/unity_rectify.h" name="modules/perception/traffic_light/rectify/unity_rectify.h">
+<area shape="rect" id="node6" href="$base__rectifier_8h.html" title="modules/perception\l/traffic_light/interface\l/base_rectifier.h" alt="" coords="740,109,884,165"/>
+<area shape="rect" id="node24" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="1124,109,1268,165"/>
+<area shape="rect" id="node7" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="634,221,773,262"/>
+<area shape="rect" id="node16" href="$image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="983,317,1117,373"/>
+<area shape="rect" id="node20" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1109,213,1243,269"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="113,332,271,359"/>
+<area shape="rect" id="node13" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="295,332,471,359"/>
+</map>

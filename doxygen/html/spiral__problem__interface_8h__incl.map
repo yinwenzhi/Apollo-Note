@@ -1,0 +1,8 @@
+<map id="modules/planning/reference_line/spiral_problem_interface.h" name="modules/planning/reference_line/spiral_problem_interface.h">
+<area shape="rect" id="node6" href="$quintic__spiral__path_8h.html" title="modules/planning/math\l/curve1d/quintic_spiral\l_path.h" alt="" coords="306,96,461,152"/>
+<area shape="rect" id="node10" href="$angle_8h.html" title="Defines the templated Angle class. " alt="" coords="681,207,839,249"/>
+<area shape="rect" id="node13" href="$integral_8h.html" title="Functions to compute integral. " alt="" coords="61,207,219,249"/>
+<area shape="rect" id="node16" href="$quintic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quintic_polynomial\l_curve1d.h" alt="" coords="422,200,604,256"/>
+<area shape="rect" id="node18" href="$polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/polynomial_curve1d.h" alt="" coords="360,305,563,346"/>
+<area shape="rect" id="node19" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="395,395,551,437"/>
+</map>

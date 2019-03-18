@@ -1,0 +1,29 @@
+<map id="modules/planning/lattice/trajectory_generation/backup_trajectory_generator.h" name="modules/planning/lattice/trajectory_generation/backup_trajectory_generator.h">
+<area shape="rect" id="node8" href="$trajectory1d__generator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/trajectory1d_generator.h" alt="" coords="4120,109,4286,165"/>
+<area shape="rect" id="node36" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="1103,603,1279,659"/>
+<area shape="rect" id="node41" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="5012,707,5167,749"/>
+<area shape="rect" id="node48" href="$planning__gflags_8h.html" title="modules/planning/common\l/planning_gflags.h" alt="" coords="748,221,925,262"/>
+<area shape="rect" id="node49" href="$constant__deceleration__trajectory1d_8h.html" title="modules/planning/lattice\l/trajectory1d/constant\l_deceleration_trajectory1d.h" alt="" coords="5304,603,5489,659"/>
+<area shape="rect" id="node50" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="2507,221,2697,262"/>
+<area shape="rect" id="node10" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="2987,318,3174,359"/>
+<area shape="rect" id="node39" href="$prediction__querier_8h.html" title="modules/planning/lattice\l/behavior/prediction_querier.h" alt="" coords="3591,409,3783,450"/>
+<area shape="rect" id="node40" href="$lattice__trajectory1d_8h.html" title="modules/planning/lattice\l/trajectory1d/lattice_trajectory1d.h" alt="" coords="4631,610,4850,651"/>
+<area shape="rect" id="node42" href="$end__condition__sampler_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/end_condition_sampler.h" alt="" coords="3991,213,4162,269"/>
+<area shape="rect" id="node45" href="$quartic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quartic_polynomial\l_curve1d.h" alt="" coords="4537,499,4721,555"/>
+<area shape="rect" id="node47" href="$quintic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quintic_polynomial\l_curve1d.h" alt="" coords="4796,499,4978,555"/>
+<area shape="rect" id="node15" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="105,610,263,651"/>
+<area shape="rect" id="node22" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2691,409,2867,450"/>
+<area shape="rect" id="node27" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1387,506,1563,547"/>
+<area shape="rect" id="node30" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="2673,506,2850,547"/>
+<area shape="rect" id="node38" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="542,610,723,651"/>
+<area shape="rect" id="node16" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="273,707,431,749"/>
+<area shape="rect" id="node19" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="63,889,221,930"/>
+<area shape="rect" id="node21" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="205,798,363,839"/>
+<area shape="rect" id="node18" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="388,798,546,839"/>
+<area shape="rect" id="node29" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="1909,610,2086,651"/>
+<area shape="rect" id="node34" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="2466,610,2623,651"/>
+<area shape="rect" id="node37" href="$trajectory_8h.html" title="modules/planning/common\l/trajectory/trajectory.h" alt="" coords="1636,707,1813,749"/>
+<area shape="rect" id="node43" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="4367,318,4538,359"/>
+<area shape="rect" id="node44" href="$feasible__region_8h.html" title="modules/planning/lattice\l/behavior/feasible_region.h" alt="" coords="3767,506,3943,547"/>
+<area shape="rect" id="node46" href="$polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/polynomial_curve1d.h" alt="" coords="4925,610,5127,651"/>
+</map>

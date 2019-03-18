@@ -1,0 +1,25 @@
+<map id="modules/planning/lattice/trajectory_generation" name="modules/planning/lattice/trajectory_generation">
+<area shape="rect" id="node1" href="dir_a2a4e8f56db53be36cc716ef01f72dad.html" title="trajectory_generation" alt="" coords="107,52,249,100"/>
+<area shape="rect" id="node2" href="dir_d241757b69d3cfe701e073f3ef7995bd.html" title="behavior" alt="" coords="198,244,270,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000247_000245.html" title="7" alt="" coords="226,217,234,231"/>
+<area shape="rect" id="node3" href="dir_20c36c897bdd5e28542c27d4408ee210.html" title="math" alt="" coords="102,244,174,292"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000247_000248.html" title="6" alt="" coords="151,220,159,235"/>
+<area shape="rect" id="node4" href="dir_07ff84506040c54f09804948a385a002.html" title="trajectory1d" alt="" coords="25,148,115,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000247_000246.html" title="4" alt="" coords="112,135,120,150"/>
+<area shape="rect" id="node5" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="198,436,270,484"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000247_000013.html" title="1" alt="" coords="191,411,199,425"/>
+<area shape="rect" id="node6" href="dir_a0ed3faa5d39b514a992bdb3446b058d.html" title="constraint_checker" alt="" coords="241,148,373,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000247_000242.html" title="1" alt="" coords="262,123,270,138"/>
+<area shape="rect" id="node7" href="dir_66bbc1175c980ce8ddd485259d3b02bb.html" title="common" alt="" coords="345,340,417,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000247_000208.html" title="3" alt="" coords="399,318,407,332"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000245_000013.html" title="1" alt="" coords="238,410,246,425"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000245_000208.html" title="4" alt="" coords="330,316,338,330"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000248_000013.html" title="9" alt="" coords="218,408,226,423"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000246_000248.html" title="7" alt="" coords="114,217,122,232"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000242_000245.html" title="1" alt="" coords="266,227,274,242"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000242_000248.html" title="1" alt="" coords="190,238,198,253"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000242_000013.html" title="1" alt="" coords="251,413,259,428"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000242_000208.html" title="5" alt="" coords="369,312,377,327"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000208_000013.html" title="17" alt="" coords="283,426,297,440"/>
+<area shape="rect" id="clust1" href="dir_297ac0a475f2f912d9df2b1295bbb39a.html" title="lattice" alt="" coords="97,16,259,111"/>
+</map>

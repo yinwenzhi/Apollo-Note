@@ -1,0 +1,29 @@
+<map id="modules/perception/obstacle/camera/detector" name="modules/perception/obstacle/camera/detector">
+<area shape="rect" id="node2" href="dir_d7a8ae49aaf4caf6b0cb4fd82101fae4.html" title="common" alt="" coords="128,159,200,207"/>
+<area shape="rect" id="node6" href="dir_3220e30e13cded4e45f58b87a1a3558a.html" title="base" alt="" coords="156,447,228,495"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000192_000186.html" title="1" alt="" coords="192,420,200,435"/>
+<area shape="rect" id="node7" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="156,543,228,591"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000192_000013.html" title="2" alt="" coords="163,515,171,530"/>
+<area shape="rect" id="node9" href="dir_9cb742fd7068c86a6093426f8eb1368a.html" title="common" alt="" coords="244,351,316,399"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000192_000054.html" title="1" alt="" coords="260,323,268,338"/>
+<area shape="rect" id="node3" href="dir_656d2e783eb354d3e781e6ca57a5d95c.html" title="yolo_camera_detector" alt="" coords="38,63,188,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000056_000192.html" title="1" alt="" coords="146,131,154,146"/>
+<area shape="rect" id="node4" href="dir_7f09d535ffea7e9cceeb0fd99fc5efb8.html" title="cuda_util" alt="" coords="267,447,340,495"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000056_000052.html" title="3" alt="" coords="350,434,358,449"/>
+<area shape="rect" id="node5" href="dir_33aa689853f819ce23e76e5f99b91a3e.html" title="interface" alt="" coords="368,255,440,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000056_000198.html" title="1" alt="" coords="419,231,427,246"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000056_000186.html" title="2" alt="" coords="179,419,187,434"/>
+<area shape="rect" id="node8" href="dir_2bfb0acb60557c64d2c34c4ccacae480.html" title="dummy" alt="" coords="317,159,389,207"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000056_000193.html" title="1" alt="" coords="300,143,308,158"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000056_000054.html" title="2" alt="" coords="279,324,287,339"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000198_000186.html" title="1" alt="" coords="244,450,252,465"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000198_000013.html" title="6" alt="" coords="244,556,252,570"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000198_000054.html" title="6" alt="" coords="326,339,334,354"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000186_000013.html" title="1" alt="" coords="196,517,204,532"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000193_000198.html" title="3" alt="" coords="386,227,394,242"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000193_000054.html" title="1" alt="" coords="299,329,307,344"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000054_000052.html" title="1" alt="" coords="298,420,306,434"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000054_000186.html" title="1" alt="" coords="228,432,236,446"/>
+<area shape="rect" id="clust2" href="dir_af537bec2d8e9d8383734638e882a779.html" alt="" coords="27,52,296,217"/>
+<area shape="rect" id="clust1" href="dir_19eca454d17966873dcfb713dabd8d6a.html" title="camera" alt="" coords="16,16,307,228"/>
+</map>

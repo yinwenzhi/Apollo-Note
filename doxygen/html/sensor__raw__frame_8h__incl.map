@@ -1,0 +1,13 @@
+<map id="modules/perception/obstacle/onboard/sensor_raw_frame.h" name="modules/perception/obstacle/onboard/sensor_raw_frame.h">
+<area shape="rect" id="node4" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="560,423,713,465"/>
+<area shape="rect" id="node14" href="$base__radar__detector_8h.html" title="modules/perception\l/obstacle/radar/interface\l/base_radar_detector.h" alt="" coords="1123,109,1285,165"/>
+<area shape="rect" id="node7" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="449,529,596,570"/>
+<area shape="rect" id="node17" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2836,431,3012,457"/>
+<area shape="rect" id="node20" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2219,311,2359,353"/>
+<area shape="rect" id="node26" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="1125,214,1283,255"/>
+<area shape="rect" id="node23" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2211,431,2368,457"/>
+<area shape="rect" id="node28" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="2665,311,2819,353"/>
+<area shape="rect" id="node30" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="1131,304,1277,360"/>
+<area shape="rect" id="node33" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1534,304,1735,360"/>
+<area shape="rect" id="node37" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1505,409,1697,479"/>
+</map>

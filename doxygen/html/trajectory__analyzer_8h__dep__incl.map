@@ -1,0 +1,5 @@
+<map id="modules/control/common/trajectory_analyzer.h" name="modules/control/common/trajectory_analyzer.h">
+<area shape="rect" id="node2" href="$lat__controller_8h.html" title="Defines the LatController class. " alt="" coords="5,97,176,138"/>
+<area shape="rect" id="node3" href="$lon__controller_8h.html" title="Defines the LonController class. " alt="" coords="200,97,371,138"/>
+<area shape="rect" id="node4" href="$mpc__controller_8h.html" title="Defines the MPCController class. " alt="" coords="395,97,565,138"/>
+</map>

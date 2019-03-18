@@ -1,0 +1,10 @@
+<map id="modules/perception/obstacle/onboard/lane_shared_data.h" name="modules/perception/obstacle/onboard/lane_shared_data.h">
+<area shape="rect" id="node3" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="654,109,854,165"/>
+<area shape="rect" id="node16" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="1298,109,1469,165"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1309,424,1466,451"/>
+<area shape="rect" id="node14" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="658,214,850,285"/>
+<area shape="rect" id="node21" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1782,229,1916,270"/>
+<area shape="rect" id="node26" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="1599,229,1757,270"/>
+<area shape="rect" id="node23" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1725,424,1901,451"/>
+<area shape="rect" id="node27" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1599,334,1738,375"/>
+</map>

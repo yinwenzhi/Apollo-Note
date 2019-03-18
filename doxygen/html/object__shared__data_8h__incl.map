@@ -1,0 +1,15 @@
+<map id="modules/perception/obstacle/onboard/object_shared_data.h" name="modules/perception/obstacle/onboard/object_shared_data.h">
+<area shape="rect" id="node3" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="780,117,937,158"/>
+<area shape="rect" id="node33" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="2177,109,2348,165"/>
+<area shape="rect" id="node9" href="$time__util_8h.html" title="modules/common/time\l/time_util.h" alt="" coords="317,333,471,374"/>
+<area shape="rect" id="node14" href="$pcl__types_8h.html" title="modules/perception\l/common/pcl_types.h" alt="" coords="412,438,559,479"/>
+<area shape="rect" id="node21" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="911,213,1057,269"/>
+<area shape="rect" id="node24" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="496,333,649,374"/>
+<area shape="rect" id="node25" href="$type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/type.h" alt="" coords="1555,213,1756,269"/>
+<area shape="rect" id="node12" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2697,445,2873,472"/>
+<area shape="rect" id="node29" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2364,445,2521,472"/>
+<area shape="rect" id="node32" href="$base__type_8h.html" title="modules/perception\l/obstacle/camera/lane\l_post_process/common/base\l_type.h" alt="" coords="1491,318,1684,389"/>
+<area shape="rect" id="node38" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="2879,221,3013,262"/>
+<area shape="rect" id="node40" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="2697,221,2855,262"/>
+<area shape="rect" id="node41" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2422,333,2561,374"/>
+</map>

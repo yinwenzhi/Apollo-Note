@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1localization_1_1msf_1_1LRUCache.html" title="apollo::localization\l::msf::LRUCache\&lt; apollo\l::localization::msf::MapNodeIndex,\l apollo::localization::msf::BaseMapNode \&gt;" alt="" coords="5,67,275,138"/>
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1MapNodeCacheL1.html" title="apollo::localization\l::msf::MapNodeCacheL1\l\&lt; apollo::localization\l::msf::MapNodeIndex, apollo\l::localization::msf::BaseMapNode \&gt;" alt="" coords="323,5,554,91"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1MapNodeCacheL2.html" title="apollo::localization\l::msf::MapNodeCacheL2\l\&lt; apollo::localization\l::msf::MapNodeIndex, apollo\l::localization::msf::BaseMapNode \&gt;" alt="" coords="323,115,554,200"/>
+</map>

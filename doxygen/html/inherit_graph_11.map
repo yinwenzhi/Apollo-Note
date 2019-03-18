@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1common_1_1ApolloApp.html" title="The base module class to define the interface of an Apollo app. An Apollo app runs infinitely until b..." alt="" coords="5,736,187,763"/>
+<area shape="rect" id="node2" href="$classapollo_1_1calibration_1_1LidarExChecker.html" title="apollo::calibration\l::LidarExChecker" alt="" coords="283,5,405,46"/>
+<area shape="rect" id="node3" href="$classapollo_1_1calibration_1_1RepublishMsg.html" title="apollo::calibration\l::RepublishMsg" alt="" coords="283,70,405,111"/>
+<area shape="rect" id="node4" href="$classapollo_1_1canbus_1_1Canbus.html" title="canbus module main class. It processes the control data to send protocol messages to can card..." alt="" coords="265,136,423,163"/>
+<area shape="rect" id="node5" href="$classapollo_1_1control_1_1Control.html" title="control module main class, it processes localization, chasiss, and pad data to compute throttle..." alt="" coords="267,187,421,213"/>
+<area shape="rect" id="node6" href="$classapollo_1_1dreamview_1_1Dreamview.html" title="apollo::dreamview::\lDreamview" alt="" coords="277,238,411,279"/>
+<area shape="rect" id="node7" href="$classapollo_1_1drivers_1_1conti__radar_1_1ContiRadarCanbus.html" title="template of canbus&#45;based sensor module main class (e.g., conti_radar). " alt="" coords="255,303,433,345"/>
+<area shape="rect" id="node8" href="$classapollo_1_1drivers_1_1gnss_1_1GnssDriver.html" title="apollo::drivers::gnss\l::GnssDriver" alt="" coords="275,369,413,410"/>
+<area shape="rect" id="node9" href="$classapollo_1_1drivers_1_1lidar__velodyne_1_1PcdApp.html" title="apollo::drivers::lidar\l_velodyne::PcdApp" alt="" coords="277,434,411,475"/>
+<area shape="rect" id="node10" href="$classapollo_1_1drivers_1_1lidar__velodyne_1_1PointCloudTool.html" title="apollo::drivers::lidar\l_velodyne::PointCloudTool" alt="" coords="255,499,433,541"/>
+<area shape="rect" id="node11" href="$classapollo_1_1drivers_1_1lidar__velodyne_1_1Velodyne.html" title="velodyne module main class " alt="" coords="273,565,415,606"/>
+<area shape="rect" id="node12" href="$classapollo_1_1drivers_1_1racobit__radar_1_1RacobitRadarCanbus.html" title="template of canbus&#45;based sensor module main class (e.g., racobit_radar). " alt="" coords="249,630,439,671"/>
+<area shape="rect" id="node13" href="$classapollo_1_1drivers_1_1SensorCanbus.html" title="template of canbus&#45;based sensor module main class (e.g., mobileye). " alt="" coords="245,695,443,737"/>
+<area shape="rect" id="node14" href="$classapollo_1_1drivers_1_1ultrasonic__radar_1_1UltrasonicRadarCanbus.html" title="template of canbus&#45;based sensor module main class (e.g., ultrasonic_radar). " alt="" coords="241,761,447,802"/>
+<area shape="rect" id="node15" href="$classapollo_1_1guardian_1_1Guardian.html" title="apollo::guardian::Guardian" alt="" coords="257,827,431,853"/>
+<area shape="rect" id="node16" href="$classapollo_1_1localization_1_1Localization.html" title="Localization module main class. It processes GPS and IMU as input, to generate localization info..." alt="" coords="279,878,409,919"/>
+<area shape="rect" id="node17" href="$classapollo_1_1localization_1_1msf_1_1OnlineLocalVisualizer.html" title="apollo::localization\l::msf::OnlineLocalVisualizer" alt="" coords="251,943,437,985"/>
+<area shape="rect" id="node18" href="$classapollo_1_1monitor_1_1Monitor.html" title="apollo::monitor::Monitor" alt="" coords="265,1009,423,1036"/>
+<area shape="rect" id="node19" href="$classapollo_1_1perception_1_1data__generator_1_1DataGenerator.html" title="apollo::perception\l::data_generator::DataGenerator" alt="" coords="239,1061,449,1102"/>
+<area shape="rect" id="node20" href="$classapollo_1_1perception_1_1Perception.html" title="apollo::perception\l::Perception" alt="" coords="282,1126,406,1167"/>
+<area shape="rect" id="node21" href="$classapollo_1_1planning_1_1Planning.html" title="apollo::planning::Planning" alt="" coords="259,1192,429,1219"/>
+<area shape="rect" id="node22" href="$classapollo_1_1prediction_1_1PredictionInterface.html" title="Interface of the prediction module. " alt="" coords="275,1243,413,1285"/>
+<area shape="rect" id="node24" href="$classapollo_1_1relative__map_1_1RelativeMapInterface.html" title="Interface of the relative map module. Relative map module is the module that can produce a relative m..." alt="" coords="267,1309,421,1350"/>
+<area shape="rect" id="node26" href="$classapollo_1_1routing_1_1Routing.html" title="apollo::routing::Routing" alt="" coords="266,1375,422,1401"/>
+<area shape="rect" id="node27" href="$classapollo_1_1third__party__perception_1_1ThirdPartyPerception.html" title="apollo::third_party\l_perception::ThirdPartyPerception" alt="" coords="235,1426,453,1467"/>
+<area shape="rect" id="node23" href="$classapollo_1_1prediction_1_1Prediction.html" title="apollo::prediction\l::Prediction" alt="" coords="511,1243,631,1285"/>
+<area shape="rect" id="node25" href="$classapollo_1_1relative__map_1_1RelativeMap.html" title="apollo::relative_map\l::RelativeMap" alt="" coords="501,1309,640,1350"/>
+</map>
