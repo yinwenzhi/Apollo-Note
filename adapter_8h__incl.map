@@ -1,0 +1,10 @@
+<map id="modules/common/adapters/adapter.h" name="modules/common/adapters/adapter.h">
+<area shape="rect" id="node13" href="$adapter__gflags_8h.html" title="modules/common/adapters\l/adapter_gflags.h" alt="" coords="1423,97,1601,138"/>
+<area shape="rect" id="node16" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1156,97,1309,138"/>
+<area shape="rect" id="node25" href="$file_8h.html" title="modules/common/util\l/file.h" alt="" coords="2321,97,2468,138"/>
+<area shape="rect" id="node36" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="3088,187,3235,229"/>
+<area shape="rect" id="node41" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="336,187,483,229"/>
+<area shape="rect" id="node20" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="757,187,928,229"/>
+<area shape="rect" id="node21" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1600,195,1757,221"/>
+<area shape="rect" id="node22" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="557,195,733,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="modules/perception/obstacle/camera/interface/base_camera_filter.h" name="modules/perception/obstacle/camera/interface/base_camera_filter.h">
+<area shape="rect" id="node2" href="$object__camera__extended__kalman__filter_8h.html" title="modules/perception\l/obstacle/camera/filter\l/object_camera_extended\l_kalman_filter.h" alt="" coords="5,110,176,181"/>
+<area shape="rect" id="node3" href="$object__camera__filter_8h.html" title="modules/perception\l/obstacle/camera/filter\l/object_camera_filter.h" alt="" coords="200,117,353,173"/>
+<area shape="rect" id="node4" href="$camera__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/camera\l_process_subnode.h" alt="" coords="249,229,420,285"/>
+</map>
